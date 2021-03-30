@@ -1,4 +1,4 @@
-# Aplicação Web para geração de preços de uso... por Flavio Dos Santos Pires Junior
+# Aplicação Web para geração de preços de uso de bicicletas elétricas compartilhadas
 
 `Sistemas para Internet`
 
