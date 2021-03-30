@@ -9,7 +9,7 @@
 ## Integrantes
 
 - Bruno Araújo Souto
-- Flávio Dos Santos Pires Junior
+- Flávio dos Santos Pires Junior
 - Jade Amin Zuim Pereira
 - Raphael Bruno de Oliveira
 - Rodolfo Tadeu Pacheco Ferreira
