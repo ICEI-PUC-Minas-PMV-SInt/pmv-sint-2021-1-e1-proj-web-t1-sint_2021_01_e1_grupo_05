@@ -11,7 +11,7 @@
 - Bruno Araújo Souto
 - Flávio Dos Santos Pires Junior
 - Jade Amin Zuim Pereira
-- Raphael Bruno De Oliveira
+- Raphael Bruno de Oliveira
 - Rodolfo Tadeu Pacheco Ferreira
 
 ## Professor
