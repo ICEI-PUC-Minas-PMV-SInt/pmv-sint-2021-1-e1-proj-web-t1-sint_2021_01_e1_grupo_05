@@ -1,19 +1,22 @@
-# TÍTULO DO PROJETO
+# Aplicação Web para geração de preços de uso... por Flavio Dos Santos Pires Junior
 
-`CURSO`
+`Sistemas para Internet`
 
-`DISCIPLINA`
+`Eixo 1 - Projeto: Aplicações Web - Turma 1 - 2021/1`
 
-`SEMESTRE`
+`PRIMEIRO SEMESTRE`
 
 ## Integrantes
 
-- Obi-Wan Kenobi 
-- Anakin Skywalker
+- Bruno Araújo Souto
+- Flávio Dos Santos Pires Junior
+- Jade Amin Zuim Pereira
+- Raphael Bruno De Oliveira
+- Rodolfo Tadeu Pacheco Ferreira
 
 ## Professor
 
-- Mestre Yoda
+- Fabiano Costa Teixeira
 
 # Documentação
 
