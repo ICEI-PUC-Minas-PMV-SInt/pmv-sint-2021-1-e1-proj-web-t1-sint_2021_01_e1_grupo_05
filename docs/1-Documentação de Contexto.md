@@ -68,6 +68,25 @@ Objetivos:
 <li>Trazer a realidade das bicicletas elétricas para o sertão nordetisno.</li>
 </ol>
 
+* Persona 3
+
+Marcela Dutra
+
+35 anos - Salvador/BA - Vice-presidente do Banco MASTER
+
+Biografia:
+
+Vice-presidente do Banco Master, formada em economia pela UFMG. Marcela Dutra iniciou sua carreira como bancária e após alguns anos assumiu a vice preisdencia do banco MASTER. Com o objeto de se tornar uma plataforma onde há serviços distintos em apenas um banco, o MASTER procura entrar no mercado de mobilidade urbana com bicicletas.
+
+Objetivos:
+
+<ol>
+<li>Inclur o serviço de bicicletas elétricas no catálogo de serviços do banco MASTER.</li>
+<li>Tornar o banco Master mais sustentável e permitir que a sociedade também seja mais sustentável.</li>
+<li>Diminuir a emissão de carbono em 3% até 2030 na cidade sede do banco Master.</li>
+</ol>
+
+
 > **Links Úteis**:
 > - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
 > - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
