@@ -34,22 +34,38 @@ O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estat�
 
 ## Público-Alvo
 
-Persona 1 
+* Persona 1 
 
-Gabriel Arruda
+ * Gabriel Arruda
 
-29 anos - São Paulo - CTO da Blue Move
+ * 29 anos - São Paulo/SP - CTO da Blue Move
 
-Biografia:
+ * Biografia:
 
-Nascido em São Paulo, Gabriel Arruda é formado em Administração na USP com mestrado em Universidade de Cambridge na Inglaterra. Entrou no mercado de mobilidade no ano de 2016 com projetos na área de viagens fretadas e possui hoje um dos principais aplicativos concorrentes da Uber no Brasil.
-
-Objetivos:
+ * Nascido em São Paulo, Gabriel Arruda é formado em Administração na USP com mestrado em Universidade de Cambridge na Inglaterra. Entrou no mercado de mobilidade no ano de 2016 com projetos na área de viagens fretadas e possui hoje um dos principais aplicativos concorrentes da Uber no Brasil.
 
 <ol>
 <li>Pretende expandir o seu negócio  para o setor de bicicletas compartilhadas como meio de transporte ou lazer.</li>
 <li>Fazer com que este aplicativo seja o mais acessível e barato entre os concorrentes.</li>
 <li>Melhorar a mobilidade urbana incentivando as pessoas a utilizarem menos carros e mais bicicletas.</li>
+</ol>
+
+* Persona 2 
+
+ * Nelson Rubens
+
+ * 83 anos - Guararapes/SP - Sócio fundandor e diretor de tecnológia Easy Street
+
+ * Biografia:
+
+ * Sócio fundador da Easy Street, uma empresa de mobilidade que iniciou no mercado brasileiro no ano de 2020 e com o projeto principal das bicicletas elétricas motorizadas. Nasceu no Brasil e foi naturalizado norte americano. Vive nos Estados Unidos desde os 9 anos e sempre viu a mobilidade urbana como um problema da sociedade moderna.
+
+Objetivos:
+
+<ol>
+<li>Criar uma solução competitiva focada em bicicletas elétricas motorizadas. Como principal meio alternativo aos carros.</li>
+<li>Fazer com que mais pessoas possam se locomover se utilizando como meio único e exclusivo a bicicleta.</li>
+<li>Trazer a realidade das bicicletas elétricas para o sertão nordetisno.</li>
 </ol>
 
 > **Links Úteis**:
