@@ -34,10 +34,23 @@ O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estat�
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+Persona 1 
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual, ou diagramas de personas, mapa de stakeholders, ou como o grupo achar mais conveniente.
+Gabriel Arruda
+
+29 anos - São Paulo - CTO da Blue Move
+
+Biografia:
+
+Nascido em São Paulo, Gabriel Arruda é formado em Administração na USP com mestrado em Universidade de Cambridge na Inglaterra. Entrou no mercado de mobilidade no ano de 2016 com projetos na área de viagens fretadas e possui hoje um dos principais aplicativos concorrentes da Uber no Brasil.
+
+Objetivos:
+
+<ol>
+<li>Pretende expandir o seu negócio  para o setor de bicicletas compartilhadas como meio de transporte ou lazer.</li>
+<li>Fazer com que este aplicativo seja o mais acessível e barato entre os concorrentes.</li>
+<li>Melhorar a mobilidade urbana incentivando as pessoas a utilizarem menos carros e mais bicicletas.</li>
+</ol>
 
 > **Links Úteis**:
 > - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
