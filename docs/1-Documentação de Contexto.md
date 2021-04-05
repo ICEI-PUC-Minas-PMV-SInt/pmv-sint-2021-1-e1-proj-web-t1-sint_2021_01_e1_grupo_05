@@ -34,6 +34,8 @@ O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estat�
 
 ## Público-Alvo
 
+Nossa solução tem como público alvo empresas e gestores que visam investir ou já estejam investindo em mobilidade urbana tendo como foco principal bicicletas elétricas compartilhadas.
+
 * Persona 1 
 
 Gabriel Arruda
