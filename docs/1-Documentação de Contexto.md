@@ -83,9 +83,9 @@ Vice-presidente do Banco Master, formada em economia pela UFMG. Marcela Dutra in
 Objetivos:
 
 <ol>
-<li>Inclur o serviço de bicicletas elétricas no catálogo de serviços do banco MASTER.</li>
+<li>Incluir o serviço de bicicletas elétricas no catálogo de serviços do banco MASTER.</li>
 <li>Tornar o banco Master mais sustentável e permitir que a sociedade também seja mais sustentável.</li>
-<li>Diminuir a emissão de carbono em 3% até 2030 na cidade sede do banco Master.</li>
+<li>Diminuir a emissão de carbono em 3% até 2030, na cidade sede do banco Master.</li>
 </ol>
 
 
