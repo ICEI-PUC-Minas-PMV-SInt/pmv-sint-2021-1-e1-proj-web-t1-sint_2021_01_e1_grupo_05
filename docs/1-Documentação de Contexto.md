@@ -78,7 +78,7 @@ Marcela Dutra
 
 Biografia:
 
-Vice-presidente do Banco Master, formada em economia pela UFMG. Marcela Dutra iniciou sua carreira como bancária e após alguns anos assumiu a vice preisdencia do banco MASTER. Com o objeto de se tornar uma plataforma onde há serviços distintos em apenas um banco, o MASTER procura entrar no mercado de mobilidade urbana com bicicletas.
+Vice-presidente do Banco Master, formada em economia pela UFMG. Marcela Dutra iniciou sua carreira como bancária e após alguns anos assumiu a vice presidência do banco MASTER. Com o objeto de se tornar uma plataforma onde há serviços distintos em apenas um banco, o MASTER procura entrar no mercado de mobilidade urbana com bicicletas.
 
 Objetivos:
 
