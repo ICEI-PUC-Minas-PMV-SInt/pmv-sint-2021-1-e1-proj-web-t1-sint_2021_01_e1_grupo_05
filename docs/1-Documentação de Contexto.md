@@ -38,7 +38,7 @@ Texto apresentando o que já se tem sobre o assunto
 
 ## Público-Alvo
 
-Nossa solução tem como público alvo empresas e gestores que visam investir ou já estejam investindo em mobilidade urbana tendo como foco principal bicicletas elétricas compartilhadas.
+Esse projeto tem como público alvo empresas e gestores que visam investir ou já estejam investindo em mobilidade urbana tendo como foco principal bicicletas elétricas compartilhadas.
 
 * Persona 1 
 
