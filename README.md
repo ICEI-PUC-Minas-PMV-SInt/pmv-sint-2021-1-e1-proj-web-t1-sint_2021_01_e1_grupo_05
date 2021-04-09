@@ -10,7 +10,6 @@
 
 - Bruno Araújo Souto
 - Flávio dos Santos Pires Junior
-- Jade Amin Zuim Pereira
 - Raphael Bruno de Oliveira
 - Rodolfo Tadeu Pacheco Ferreira
 
