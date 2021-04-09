@@ -46,10 +46,15 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ### Requisitos Funcionais
 
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|ID    | Descrição do Requisito                                       | Prioridade |
+|------|--------------------------------------------------------------|------------|
+|RF-001| Permitir que o administrador cadastre preço                  |  ALTA      | 
+|RF-002| Permitir que o administrador exclua preço                    |  ALTA      |
+|RF-003| Permitir que o administrador edite preço                     |  ALTA      |
+|RF-004| Permitir que o usuário crie filtros de preço                 |  MÉDIA     |
+|RF-005| Permitir que o usuário crie relatórios de preço              |  MÉDIA     |
+|RF-006| Permitir que o administrador importe preço                   |  BAIXO     |
+|RF-006| Permitir que o administrador monitore os preços concorrentes |  MÉDIA     |
 
 
 ### Requisitos não Funcionais
