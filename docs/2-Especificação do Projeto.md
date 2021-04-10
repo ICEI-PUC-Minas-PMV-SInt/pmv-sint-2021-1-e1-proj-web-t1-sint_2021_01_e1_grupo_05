@@ -35,22 +35,10 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |CTO Startup            | monitorar o preço dos concorrentes            | manter os preços mais competitivos           |
 |-----------------------|-----------------------------------------------|----------------------------------------------|
 |Usuário do sistema     | Visualizar/Analisar  preço dos concorrentes   | Melhor competitividade                       |
-|-----------------------|-----------------------------------------------|----------------------------------------------|
 |Usuário do sistema     | Cadastro de preço                             | Permitir que possa ser cadastrado preços     |
-|-----------------------|-----------------------------------------------|----------------------------------------------|
 |Usuário do sistema     | Importação de preços                          | Permitir que possa ser cadastrado preços     |
-|-----------------------|-----------------------------------------------|----------------------------------------------|
 |Administrador          | Cadastrar permissões de usuário               | Cadastrar permissões de usuário              |
-|-----------------------|-----------------------------------------------|----------------------------------------------|
 |Administrador          | Criar filtro para composição do preço         | Personalizar a composição de cálculo do preço|
-
-
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
 
 ## Requisitos
 
@@ -68,7 +56,6 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-006| Permitir que o administrador importe preço                   |  BAIXO     |
 |RF-006| Permitir que o administrador monitore os preços concorrentes |  MÉDIA     |
 
-
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito                             |Prioridade |
@@ -77,21 +64,6 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-002| Autenticação dos usuários                             |  BAIXA |
 |RNF-002| Design responsivo                                     |  ALTA |
 
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
-
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
-
 ## Restrições
 
 |ID| Restrição                                             |
@@ -99,7 +71,3 @@ todos os aspectos capturados nas Histórias de Usuário foram cobertos.
 |01| Primeira versão será lançada apenas Android           |
 |02| Primeira versão não será criada com filtros de preço  |
 
-
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
