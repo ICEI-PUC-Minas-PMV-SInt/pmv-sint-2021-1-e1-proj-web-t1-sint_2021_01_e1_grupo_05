@@ -2,6 +2,14 @@
 
 Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
 
+A utilização das bicicletas elétricas como alternativa sustentável de meio de transporte. Se mostra um grande mercado a ser explorado no Brasil. Em grandes cidades onde o trânsito progressivamente se molda em congestionamentos e contenções. A bicicleta elétrica se mostra como opção viável e sustentável. 
+Com o intuito de desenvolver uma aplicação, que consiste em correlacionar o desempenho e autonomia de uma bicicleta elétrica, com seu custo de deslocamento e o seu custo operacional. 
+Através de um parâmetro de GASTO FIXO no ato da disponibilização ao usuário. Que engloba sumariamente: Capital, Seguro e Publicidade. E a FRAÇÃO TEMPORAL de empréstimo. Que engloba sumariamente: Manutenção, Recarga e Tempo de Utilização.
+A utilização da publicidade em conjunto com meios práticos, que mitigam gastos com manutenção e reposição. Como por exemplo, postos de retirada e entrega obrigatórios.
+E o caráter estimado de relação de uso com carga, a aplicação dará enfase ao monitoramento contínuo do tempo de empréstimo, o multiplicando com a fração temporal e acrescentando o gasto fixo. A relação e autonomia com a carga restante pela natureza de decaimento da bateria. Terá como artifício de autonomia controlada, a exigência de devolução da bicicleta em postos de recarga em um tempo pré-estabelecido.
+A destinação de uso do software se enquadra em empresas e startups entusiastas de melhoria no transporte urbano. Que se preocupam com a sustentabilidade e possuem parcerias publicitárias.
+
+
 ## Problema
 Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
 
@@ -28,6 +36,8 @@ Apresente também alguns (pelo menos 2) objetivos específicos dependendo de ond
 Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
 
 O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+
+A rentabilidade das bicicletas elétricas depende de artifícios comerciais e publicitários. Somente com a estratégia de fornecimento do serviço, contando com a rentabilidade não há geração de retorno lucrativo. A utilização da publicidade em conjunto com meios práticos, que mitigam gastos com manutenção e reposição. Como por exemplo, postos de retirada e entrega obrigatórios. A única forma de o empreendimento compreendido no mercado brasileiro ser pujante e competitivo e a parceria com uma grande instituição que almeja publicidade voltada ao bem-estar e a sustentabilidade.
 
 > **Links Úteis**:
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
