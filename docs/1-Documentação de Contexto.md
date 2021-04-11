@@ -40,7 +40,7 @@ Descreva a importância ou a motivação para trabalhar com esta aplicação que
 
 O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
 
-A rentabilidade das bicicletas elétricas depende de artifícios comerciais e publicitários. Somente com a estratégia de fornecimento do serviço, contando com a rentabilidade não há geração de retorno lucrativo. A utilização da publicidade em conjunto com meios práticos, que mitigam gastos com manutenção e reposição. Como por exemplo, postos de retirada e entrega obrigatórios. A única forma de o empreendimento compreendido no mercado brasileiro ser pujante e competitivo e a parceria com uma grande instituição que almeja publicidade voltada ao bem-estar e a sustentabilidade.
+O empreendimento de aluguel das bicicletas elétricas depende de artifícios comerciais e publicitários. A utilização da publicidade em conjunto com meios práticos, que mitigam gastos com manutenção e reposição. Como por exemplo, postos de retirada e entrega obrigatórios. São a única forma de o empreendimento compreendido no mercado brasileiro ser pujante e competitivo. A parceria com uma grande instituição que almeja publicidade voltada ao bem-estar e a sustentabilidade. Irá alavancar e proporcionará o efetivo incentivo necessário para o empreendimento, que apesar de ser promissor, sofre com possíveis questões culturais e de adaptação a utilização da demanda dos usuários brasileiros.
 
 > **Links Úteis**:
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
