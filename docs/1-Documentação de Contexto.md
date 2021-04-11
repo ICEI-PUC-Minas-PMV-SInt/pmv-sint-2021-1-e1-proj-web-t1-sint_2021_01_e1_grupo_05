@@ -8,7 +8,7 @@ Com o intuito de desenvolver uma aplicação, que consiste em correlacionar o de
 Através de um parâmetro de GASTO FIXO no ato da disponibilização ao usuário. Que engloba sumariamente: Capital, Seguro e Publicidade. E a FRAÇÃO TEMPORAL de empréstimo. Que engloba sumariamente: Manutenção, Recarga e Tempo de Utilização.
 A utilização da publicidade em conjunto com meios práticos, que mitigam gastos com manutenção e reposição. Como por exemplo, postos de retirada e entrega obrigatórios.
 
-E o caráter estimado de relação de uso com carga, a aplicação dará enfase ao monitoramento contínuo do tempo de empréstimo, o multiplicando com a fração temporal e acrescentando o gasto fixo. A relação e autonomia com a carga restante pela natureza de decaimento da bateria. Terá como artifício de autonomia controlada, a exigência de devolução da bicicleta em postos de recarga em um tempo pré-estabelecido.
+E o caráter estimado de relação de uso com carga, a aplicação dará enfâse ao monitoramento contínuo do tempo de empréstimo, o multiplicando com a fração temporal e acrescentando o gasto fixo. A relação e autonomia com a carga restante pela natureza de decaimento da bateria. Terá como artifício de autonomia controlada, a exigência de devolução da bicicleta em postos de recarga em um tempo pré-estabelecido.
 
 A destinação de uso do software se enquadra em empresas e startups entusiastas de melhoria no transporte urbano. Que se preocupam com a sustentabilidade e possuem parcerias publicitárias.
 
