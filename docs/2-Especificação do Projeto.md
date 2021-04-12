@@ -42,7 +42,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-004| Permitir que o usuário crie filtros de preço                 |  MÉDIA     |
 |RF-005| Permitir que o usuário crie relatórios de preço              |  MÉDIA     |
 |RF-006| Permitir que o administrador importe preço                   |  BAIXO     |
-|RF-006| Permitir que o administrador monitore os preços concorrentes |  MÉDIA     |
+|RF-007| Permitir que o administrador monitore os preços concorrentes |  MÉDIA     |
 
 ### Requisitos não Funcionais
 
