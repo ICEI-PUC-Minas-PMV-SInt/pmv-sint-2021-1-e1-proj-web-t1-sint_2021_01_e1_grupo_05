@@ -14,16 +14,10 @@ A destinação de uso do software se enquadra em empresas e startups entusiastas
 
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
+Alguns problemas sociais podem impactar muito na precificação de produtos e serviços, no caso do uso de bicicletas elétricas compartilhadas, destaca-se o vandalismo e furtos das bicicletas como os principais. Os possíveis furtos e depredações das bicicletas elevam o custo da operação, assim como a torna inviável ou de difícil precificação. 
 
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+Contudo, o problema que se busca resolver com esse projeto é a criação de um sistema de precificação sustentável financeiramente e que garanta um preço justo e acessível aos usuários, porém, buscando a rentabilidade aos investidores. 
 
 
 ## Objetivos
@@ -49,6 +43,7 @@ O empreendimento de aluguel das bicicletas elétricas depende de artifícios com
 ## Estado da Arte
 
 Texto apresentando o que já se tem sobre o assunto
+
 
 ## Público-Alvo
 
