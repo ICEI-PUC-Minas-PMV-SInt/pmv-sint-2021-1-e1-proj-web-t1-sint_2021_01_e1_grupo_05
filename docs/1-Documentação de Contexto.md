@@ -31,25 +31,17 @@ Desta forma, temos como objetivos específicos:
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
-
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
-
 O empreendimento de aluguel das bicicletas elétricas depende de artifícios comerciais e publicitários. A utilização da publicidade em conjunto com meios práticos, que mitigam gastos com manutenção e reposição. Como por exemplo, postos de retirada e entrega obrigatórios. São a única forma de o empreendimento compreendido no mercado brasileiro ser pujante e competitivo. A parceria com uma grande instituição que almeja publicidade voltada ao bem-estar e a sustentabilidade. Irá alavancar e proporcionará o efetivo incentivo necessário para o empreendimento, que apesar de ser promissor, sofre com possíveis questões culturais e de adaptação a utilização da demanda dos usuários brasileiros.
 
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
-> 
 ## Estado da Arte
 
 Texto apresentando o que já se tem sobre o assunto
-
 
 ## Público-Alvo
 
 Esse projeto tem como público alvo empresas e gestores que visam investir ou já estejam investindo em mobilidade urbana tendo como foco principal bicicletas elétricas compartilhadas.
 
-* Persona 1 
+Persona 1 
 
 Gabriel Arruda
 
@@ -65,7 +57,7 @@ Nascido em São Paulo, Gabriel Arruda é formado em Administração na USP com m
 <li>Melhorar a mobilidade urbana incentivando as pessoas a utilizarem menos carros e mais bicicletas.</li>
 </ol>
 
-* Persona 2 
+Persona 2 
 
 Nelson Rubens
 
@@ -83,7 +75,7 @@ Objetivos:
 <li>Trazer a realidade das bicicletas elétricas para o sertão nordetisno.</li>
 </ol>
 
-* Persona 3
+Persona 3
 
 Marcela Dutra
 
