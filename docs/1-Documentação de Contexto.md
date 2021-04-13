@@ -37,12 +37,13 @@ O empreendimento de aluguel das bicicletas elétricas depende de artifícios com
 
 Texto apresentando o que já se tem sobre o assunto
 
+Matéria da CNN Brasil (Jankavski, 2021) apresenta uma análise sobre essa questão:
 “Bicicleta dá lucro?
 Um modelo que, até agora, tem se mostrado resiliente é o da startup Tembici. A companhia que surgiu como um projeto patrocinado pelo banco Itaú, ganhou pernas e pedalou sozinha (com o perdão do trocadilho). Hoje, atua em cinco cidades diferentes no Brasil, além de Buenos Aires, na Argentina, e Santiago, no Chile.
 O modelo dela é diferente da Yellow. Em vez de deixar a bicicleta em qualquer canto, o usuário é obrigado a estacioná-la em uma estação após o uso. Menos conveniente para o cliente, mas mais rentável para a empresa: existem menos avarias, em média, em suas bicicletas. Outro detalhe importante é que a empresa sempre tem patrocinadores em suas estações e bicicletas, aumentando os ganhos.
 Em junho desse ano, a empresa levantou R$ 270 milhões em uma rodada de investimentos. O dinheiro está sendo utilizado na expansão e na criação de novos negócios – como uma linha de bicicletas convencionais e elétricas para entregadores do aplicativo iFood, além da expansão das versões movidas à eletricidade para usuários convencionais.
 Segundo Tomás Martins, CEO da Tembici, os negócios vão bem e, inclusive, novos aportes devem aparecer por aí. “
- Trecho de reportagem Acessado em: 24/03/2021 : Jankavski, André da CNN Brasil Business, em São Paulo https://www.cnnbrasil.com.br/business/2021/01/28/onde-foram-parar-as-bicicletas-da-yellow-leiloes-vendem-bikes-por-r-380
+
  
  “Porque a bicicleta elétrica: quebrando barreiras
 
@@ -110,3 +111,5 @@ Objetivos:
 <li>Diminuir a emissão de carbono em 3% até 2030, na cidade sede do banco Master.</li>
 </ol>
 
+##Referências
+(Jankavski, 2021) Jankavski. A: "Onde foram parar as bicicletas da Yellow? Leilões vendem bikes por R$ 380", CNN Brasil, 2021. Disponível em: https://www.cnnbrasil.com.br/business/2021/01/28/onde-foram-parar-as-bicicletas-da-yellow-leiloes-vendem-bikes-por-r-380. Acessado em: 13/04/2021.
