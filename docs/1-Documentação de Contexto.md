@@ -37,6 +37,23 @@ O empreendimento de aluguel das bicicletas elétricas depende de artifícios com
 
 Texto apresentando o que já se tem sobre o assunto
 
+“Bicicleta dá lucro?
+Um modelo que, até agora, tem se mostrado resiliente é o da startup Tembici. A companhia que surgiu como um projeto patrocinado pelo banco Itaú, ganhou pernas e pedalou sozinha (com o perdão do trocadilho). Hoje, atua em cinco cidades diferentes no Brasil, além de Buenos Aires, na Argentina, e Santiago, no Chile.
+O modelo dela é diferente da Yellow. Em vez de deixar a bicicleta em qualquer canto, o usuário é obrigado a estacioná-la em uma estação após o uso. Menos conveniente para o cliente, mas mais rentável para a empresa: existem menos avarias, em média, em suas bicicletas. Outro detalhe importante é que a empresa sempre tem patrocinadores em suas estações e bicicletas, aumentando os ganhos.
+Em junho desse ano, a empresa levantou R$ 270 milhões em uma rodada de investimentos. O dinheiro está sendo utilizado na expansão e na criação de novos negócios – como uma linha de bicicletas convencionais e elétricas para entregadores do aplicativo iFood, além da expansão das versões movidas à eletricidade para usuários convencionais.
+Segundo Tomás Martins, CEO da Tembici, os negócios vão bem e, inclusive, novos aportes devem aparecer por aí. “
+ Trecho de reportagem Acessado em: 24/03/2021 : Jankavski, André da CNN Brasil Business, em São Paulo https://www.cnnbrasil.com.br/business/2021/01/28/onde-foram-parar-as-bicicletas-da-yellow-leiloes-vendem-bikes-por-r-380
+ 
+ “Porque a bicicleta elétrica: quebrando barreiras
+
+Muitas pessoas ainda não utilizam a bicicleta como meio de transporte devido às dificuldades que a cidade proporciona, como as inúmeras ladeiras ou os longos deslocamentos. Neste sentido, a bicicleta elétrica vem quebrar esta barreira, pois permite dar um maior fôlego na pedalada, excelente para quem passa por lugares íngremes ou precisa pedalar vários quilômetros para chegar ao seu destino. Até para aquele que considera não ter mais condicionamento físico para andar de bicicleta, a elétrica pode ser uma excelente alternativa para retomar a atividade física.
+Para percursos longos, de 20 km, por exemplo, o ciclista da e-bike chega a economizar em um mês mais de 37 horas do seu tempo e mais de R$ 800.”
+
+ ![image](https://user-images.githubusercontent.com/81268716/114620037-8cb02380-9c81-11eb-8f3e-d1f9fe8264b8.png)
+
+Trecho de reportagem acessado em: 24/03/2021 -Redação Bike76 - https://bike76.com/2019/03/movida-lanca-aluguel-de-bicicletas-eletricas-para-segmento-corporativo/
+
+
 ## Público-Alvo
 
 Esse projeto tem como público alvo empresas e gestores que visam investir ou já estejam investindo em mobilidade urbana tendo como foco principal bicicletas elétricas compartilhadas.
