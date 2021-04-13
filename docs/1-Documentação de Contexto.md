@@ -111,5 +111,5 @@ Objetivos:
 <li>Diminuir a emissão de carbono em 3% até 2030, na cidade sede do banco Master.</li>
 </ol>
 
-##Referências
+## Referências
 (Jankavski, 2021) Jankavski. A: "Onde foram parar as bicicletas da Yellow? Leilões vendem bikes por R$ 380", CNN Brasil, 2021. Disponível em: https://www.cnnbrasil.com.br/business/2021/01/28/onde-foram-parar-as-bicicletas-da-yellow-leiloes-vendem-bikes-por-r-380. Acessado em: 13/04/2021.
