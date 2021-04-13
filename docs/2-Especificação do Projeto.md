@@ -3,7 +3,9 @@
 <span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
 
 Atualmente a demanda por soluções a respeito da mobilidade pública têm aumentado e com isso o uso de bicicletas elétricas compartilhadas se tornou uma realidade na vida das pessoas. Com isso, precificar corretamente os valores de aluguel de bicicletas compartilhadas é necessário para que o produto tenha competitividade no mercado e possa também atender de maneira justa à todos os usuários.
+
 Uma das principais maneiras de abordar a precificação é faze-la por meio da precificação baseada em custos. A partir disso é possível que o usuário controle o valor final e consiga observar sua margem de lucro. 
+
 Este é um produto que tem como público alvo gestores e empresas que necessitem de um sistema de precificação para bicicletas elétricas compartilhadas. Empresas como Green e Yellow tiveram grande adesão popular ao entragem no mercado de bicicletas compartilhadas. Entretanto, por conta de diversos problemas associados à depredação de patrimônio e pouca margem de lucro não puderam precificar corretamente para ter o retorno adequado...
 
 
