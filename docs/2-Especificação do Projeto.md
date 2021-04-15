@@ -21,7 +21,6 @@ Marcela Dutra é formada em economia pela UFMG, atualmente mora em Nova Iorque, 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
 |Marcela Dutra          | cadastrar o cartão de crédito para pagamento  | fazer o pagamento automático no final do uso da biciliceta|
-|-----------------------|-----------------------------------------------|----------------------------------------------|
 |Usuário do sistema     | Visualizar/Analisar  preço dos concorrentes   | Melhor competitividade                       |
 |Usuário do sistema     | Cadastro de preço                             | Permitir que possa ser cadastrado preços     |
 |Usuário do sistema     | Importação de preços                          | Permitir que possa ser cadastrado preços     |
