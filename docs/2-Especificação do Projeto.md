@@ -12,13 +12,15 @@ Este é um produto que tem como público alvo gestores e empresas que necessitem
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+Gabriel Arruda nasceu em São Paulo e é formado em Administração na USP com mestrado em Universidade de Cambridge na Inglaterra, é solteiro e sempre está em busca de formas mais sustentáveis para se locomover em uma metrópole. Trabalha em uma ONG que busca reduzir a emissão de carbono no mundo, buscando financiamento para o incentivar formas de se locomover mais saudáveis e sustetáveis ao redor do mundo.
+
+Marcela Dutra é formada em economia pela UFMG, atualmente mora em Nova Iorque, iniciou sua carreira como bancária e após alguns anos passou a trabalhar com mercado financeiro em um escritório internacioal de uma maiores financeiras do mundo. Devido a insfraestrutura nova iorquina, se locomove apenas por bicicletas elétricas e reduziu para zero o consumo com veículos a combustão.
 
 ## Histórias de Usuários
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|CTO Startup            | monitorar o preço dos concorrentes            | manter os preços mais competitivos           |
+|Marcela Dutra          | cadastrar o cartão de crédito para pagamento  | fazer o pagamento automático no final do uso da biciliceta|
 |-----------------------|-----------------------------------------------|----------------------------------------------|
 |Usuário do sistema     | Visualizar/Analisar  preço dos concorrentes   | Melhor competitividade                       |
 |Usuário do sistema     | Cadastro de preço                             | Permitir que possa ser cadastrado preços     |
