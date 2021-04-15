@@ -57,51 +57,7 @@ Trecho de reportagem acessado em: 24/03/2021 -Redação Bike76 - https://bike76.
 
 ## Público-Alvo
 
-Esse projeto tem como público alvo empresas e gestores que visam investir ou já estejam investindo em mobilidade urbana tendo como foco principal bicicletas elétricas compartilhadas.
-
-Persona 1 
-
-Gabriel Arruda
-
-29 anos - São Paulo/SP - CTO da Blue Move
-
-Biografia:
-
-Nascido em São Paulo, Gabriel Arruda é formado em Administração na USP com mestrado em Universidade de Cambridge na Inglaterra. Entrou no mercado de mobilidade no ano de 2016 com projetos na área de viagens fretadas e possui hoje um dos principais aplicativos concorrentes da Uber no Brasil.
-
-<ol>
-<li>Pretende expandir o seu negócio  para o setor de bicicletas compartilhadas como meio de transporte ou lazer.</li>
-<li>Fazer com que este aplicativo seja o mais acessível e barato entre os concorrentes.</li>
-<li>Melhorar a mobilidade urbana incentivando as pessoas a utilizarem menos carros e mais bicicletas.</li>
-</ol>
-
-Persona 2 
-
-Nelson Rubens
-
-83 anos - Guararapes/SP - Sócio fundandor e diretor de tecnológia Easy Street
-
-Biografia:
-
-Sócio fundador da Easy Street, uma empresa de mobilidade que iniciou no mercado brasileiro no ano de 2020 e com o projeto principal das bicicletas elétricas motorizadas. Nasceu no Brasil e foi naturalizado norte americano. Vive nos Estados Unidos desde os 9 anos e sempre viu a mobilidade urbana como um problema da sociedade moderna.
-
-Objetivos:
-
-<ol>
-<li>Criar uma solução competitiva focada em bicicletas elétricas motorizadas. Como principal meio alternativo aos carros.</li>
-<li>Fazer com que mais pessoas possam se locomover se utilizando como meio único e exclusivo a bicicleta.</li>
-<li>Trazer a realidade das bicicletas elétricas para o sertão nordetisno.</li>
-</ol>
-
-Persona 3
-
-Marcela Dutra
-
-35 anos - Salvador/BA - Vice-presidente do Banco MASTER
-
-Biografia:
-
-Vice-presidente do Banco Master, formada em economia pela UFMG. Marcela Dutra iniciou sua carreira como bancária e após alguns anos assumiu a vice presidência do banco MASTER. Com o objeto de se tornar uma plataforma onde há serviços distintos em apenas um banco, o MASTER procura entrar no mercado de mobilidade urbana com bicicletas.
+O público alvo enquadra pessoas de todas as faixa etárias e gêneros. Possuem em comum o interesse em outros meios de mobilidade urbana mais sustentáveis, onde buscam evitar enfrentar o trânsito diário das grandes metrópoloes, para curtas e médias distâncias. Além disso, buscam economia pois o preço da bicicleta elétrica em comparação ao carro é muito menor principalmente em relação ao aumento constantes de tributos no combustível. Além disse, pessoas com este perfil costumam prezar pela flexibilidade, pois ao utilizar uma bicicleta elétrica é possível ter mais previsibilidade pois menos eventos diários como engarrafamentos geram menos impactos quando usando este meio de lomoção.
 
 Objetivos:
 
