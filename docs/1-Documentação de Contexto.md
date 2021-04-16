@@ -59,13 +59,6 @@ Trecho de reportagem acessado em: 24/03/2021 -Redação Bike76 - https://bike76.
 
 O público alvo enquadra pessoas de todas as faixa etárias e gêneros. Possuem em comum o interesse em outros meios de mobilidade urbana mais sustentáveis, onde buscam evitar enfrentar o trânsito diário das grandes metrópoloes, para curtas e médias distâncias. Além disso, buscam economia pois o preço da bicicleta elétrica em comparação ao carro é muito menor principalmente em relação ao aumento constantes de tributos no combustível. Além disse, pessoas com este perfil costumam prezar pela flexibilidade, pois ao utilizar uma bicicleta elétrica é possível ter mais previsibilidade pois menos eventos diários como engarrafamentos geram menos impactos quando usando este meio de lomoção.
 
-Objetivos:
-
-<ol>
-<li>Incluir o serviço de bicicletas elétricas no catálogo de serviços do banco MASTER.</li>
-<li>Tornar o banco Master mais sustentável e permitir que a sociedade também seja mais sustentável.</li>
-<li>Diminuir a emissão de carbono em 3% até 2030, na cidade sede do banco Master.</li>
-</ol>
 
 ## Referências
 (Jankavski, 2021) Jankavski. A: "Onde foram parar as bicicletas da Yellow? Leilões vendem bikes por R$ 380", CNN Brasil, 2021. Disponível em: https://www.cnnbrasil.com.br/business/2021/01/28/onde-foram-parar-as-bicicletas-da-yellow-leiloes-vendem-bikes-por-r-380. Acessado em: 13/04/2021.
