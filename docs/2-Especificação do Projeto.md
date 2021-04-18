@@ -20,12 +20,14 @@ Marcela Dutra é formada em economia pela UFMG, atualmente mora em Nova Iorque, 
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|Marcela Dutra          | cadastrar o cartão de crédito para pagamento  | fazer o pagamento automático no final do uso da biciliceta|
-|Usuário do sistema     | Visualizar/Analisar  preço dos concorrentes   | Melhor competitividade                                    |
-|Usuário do sistema     | Cadastro de preço                             | Permitir que possa ser cadastrado preços                  |
-|Usuário do sistema     | Importação de preços                          | Permitir que possa ser cadastrado preços                  |
-|Administrador          | Cadastrar permissões de usuário               | Cadastrar permissões de usuário                           |
-|Administrador          | Criar filtro para composição do preço         | Personalizar a composição de cálculo do preço             |
+
+|EU COMO... `PERSONA`           | QUERO/PRECISO ... `FUNCIONALIDADE`                      |PARA ... `MOTIVO/VALOR`                                         |
+|-------------------------------|---------------------------------------------------------|----------------------------------------------------------------|
+|Eu como Marcela Dutra          | preciso cadastrar o cartão de crédito para pagamento    |Fazer o pagamento automático no final do uso da biciliceta      |
+|Eu como Gabriel Arruda         | visualizar o histórico de todas as viagens realizadas   |Controle de uso                                                 |
+|Eu como Marcela Dutra          | visualizar o tempo da corrida e distância               |Para visualizar como o preço foi calculado                      |
+|Eu como Gabriel Arruda         | ler QR CODE da bicicleta para iniciar viagem            |Permitir que através do leitor de QR CODE seja iniciada a viagem|
+
 
 ## Requisitos
 
@@ -35,21 +37,20 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito                                       | Prioridade |
 |------|--------------------------------------------------------------|------------|
-|RF-001| Permitir que o administrador cadastre preço                  |  ALTA      | 
-|RF-002| Permitir que o administrador exclua preço                    |  ALTA      |
-|RF-003| Permitir que o administrador edite preço                     |  ALTA      |
-|RF-004| Permitir que o usuário crie filtros de preço                 |  MÉDIA     |
-|RF-005| Permitir que o usuário crie relatórios de preço              |  MÉDIA     |
-|RF-006| Permitir que o administrador importe preço                   |  BAIXO     |
-|RF-007| Permitir que o administrador monitore os preços concorrentes |  MÉDIA     |
+|RF-001| Permitir que o usuário cadastre cartão de crédito            |  ALTA      | 
+|RF-002| Permitir que o usuário cartão de crédito                     |  ALTA      |
+|RF-003| Permitir que o usuário edite cartão de crédito               |  ALTA      |
+|RF-004| Permitir que o usuário visualize um resumo ao final da viagem|  ALTA      |
+|RF-005| Permitir que o usuário visualize todas as viagens realizadas |  MÉDIA     |
+
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito                             |Prioridade |
 |-------|-------------------------------------------------------|--------|
-|RNF-001| Cadastro de preços em modo offline                    | MÉDIA  | 
-|RNF-002| Autenticação dos usuários                             |  BAIXA |
-|RNF-002| Design responsivo                                     |  ALTA |
+|RNF-001| Redução de carbono                                    |  MÉDIA | 
+|RNF-002| Geolocalização                                        |  BAIXA |
+|RNF-002| Design amigável                                       |  ALTA  |
 
 ## Restrições
 
