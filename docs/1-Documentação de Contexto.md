@@ -2,8 +2,8 @@
 
 A  utilização  das  bicicletas  elétricas como  alternativa  sustentável  de  meio  de  transporte se  mostra  um grande  mercado a ser  explorado  no  país, 
 principalmente em grandes cidades onde o trânsito progressivamente se molda em congestionamentos e contenções. Nesse cenário, a bicicleta elétrica vem como opção viável e sustentável. 
-O projeto em questão tem como principal intuito desenvolver um software que consiste em  correlacionar o desempenho e autonomia de uma bicicleta elétrica, com seu custo de deslocamento e seu custo operacional além de outros fatores agregados à dinâmica  do aluguel, como a publicidade veiculada nas bikes, como método de subsídio, para uma melhor competitividade de preços ao consumidor.
-A destinação do emprego do software se enquadra em empresas e startups entusiastas de melhoria no transporte urbano. Que se preocupam com a sustentabilidade e possuem parcerias publicitárias. E o público alvo se direciona para clientes que querem uma alternativa mais barata, saudável e sustentável de deslocamento nos grandes centros urbanos.
+O projeto em questão, tem como principal intuito desenvolver um software que consiste em  correlacionar o desempenho e autonomia de uma bicicleta elétrica, com seu custo de deslocamento e seu custo operacional além de outros fatores agregados à dinâmica  do aluguel, como a publicidade veiculada nas bikes, como método de subsídio, para uma melhor competitividade de preços ao consumidor.
+A destinação do emprego do software se enquadra em empresas e startups entusiastas de melhoria no transporte urbano. Que se preocupam com a sustentabilidade e possuem parcerias publicitárias. E o público-alvo se direciona para clientes que querem uma alternativa mais barata, saudável e sustentável de deslocamento nos grandes centros urbanos.
 
 
 ## Problema
