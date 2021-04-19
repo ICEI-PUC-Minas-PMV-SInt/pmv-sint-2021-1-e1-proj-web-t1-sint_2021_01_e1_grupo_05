@@ -21,7 +21,7 @@ Além disso, a problemática envolvida na solução deste projeto é a criação
 
 ## Objetivos
 
-O objetivo geral deste projeto é a criação de uma aplicação web para geração de preços de uso de bicicletas elétricas compartilhadas.
+O presente projeto tem como objetivo geral o desenvolvimento de uma aplicação web para geração de preços de uso de bicicletas elétricas compartilhadas.
 
 Desta forma, temos como objetivos específicos: 
 * Desenvolver uma aplicação web que precifique o uso de bicicletas elétricas compartilhadas com foco em rentabilidade, buscando um preço justo e acessível para os usuários. 
