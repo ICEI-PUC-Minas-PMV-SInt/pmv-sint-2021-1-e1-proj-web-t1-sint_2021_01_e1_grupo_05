@@ -23,10 +23,10 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`           | QUERO/PRECISO ... `FUNCIONALIDADE`                      |PARA ... `MOTIVO/VALOR`                                         |
 |-------------------------------|---------------------------------------------------------|----------------------------------------------------------------|
-|Eu como Marcela Dutra          | preciso cadastrar o cartão de crédito para pagamento    |Fazer o pagamento automático no final do uso da biciliceta      |
-|Eu como Gabriel Arruda         | visualizar o histórico de todas as viagens realizadas   |Controle de uso                                                 |
-|Eu como Marcela Dutra          | visualizar o tempo da corrida e distância               |Para visualizar como o preço foi calculado                      |
-|Eu como Gabriel Arruda         | ler QR CODE da bicicleta para iniciar viagem            |Permitir que através do leitor de QR CODE seja iniciada a viagem|
+|Eu como Marcela Dutra          | preciso cadastrar o cartão de crédito para pagamento    |fazer o pagamento automático no final do uso da biciliceta      |
+|Eu como Gabriel Arruda         | visualizar o histórico de todas as viagens realizadas   |controle de uso                                                 |
+|Eu como Marcela Dutra          | visualizar o tempo da corrida e distância               |para visualizar como o preço foi calculado                      |
+|Eu como Gabriel Arruda         | ler QR CODE da bicicleta para iniciar viagem            |permitir que através do leitor de QR CODE seja iniciada a viagem|
 
 
 ## Requisitos
