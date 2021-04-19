@@ -24,7 +24,8 @@ Desta forma, temos como objetivos específicos:
 
 ## Justificativa
 
-O empreendimento  de  aluguel  das  bicicletas elétricas  depende de artifícios comerciais e  publicitários. A utilização da publicidade em conjunto com meios práticos, que mitigam gastos com manutenção e reposição. Como por exemplo, postos de retirada e entrega obrigatórios. São a principal forma de o empreendimento compreendido  no  mercado  brasileiro  ser  pujante  e  competitivo.  A  parceria  com  uma grande instituição que almeja publicidade voltada ao bem-estar e a sustentabilidade. Irá alavancar e proporcionará o efetivo incentivo necessário para o empreendimento, que apesar de ser promissor, sofre com possíveis questões culturais e de adaptação a utilização da demanda dos usuários brasileiros.
+O empreendimento de aluguel das bicicletas elétricas, necessita de uma aplicação que gerencie de forma lucrativa os custos fixos e variáveis. Assim como necessita de artifícios comerciais e publicitários. A criação de um software que supra essa demanda de gestão, juntamente com a utilização da publicidade em conjunto com meios práticos, que mitigam gastos com manutenção e reposição. Como por exemplo, postos de retirada e entrega das bikes. São a principal forma de o empreendimento compreendido no mercado brasileiro ser pujante e competitivo. A parceria com uma grande instituição que almeja publicidade voltada ao bem-estar e a sustentabilidade. Irá alavancar e proporcionará o efetivo incentivo necessário para o empreendimento, que apesar de ser promissor, sofre com possíveis questões culturais e de adaptação a utilização da demanda dos usuários brasileiros.
+
 
 ## Estado da Arte
 
