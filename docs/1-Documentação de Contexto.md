@@ -36,7 +36,10 @@ O empreendimento de aluguel das bicicletas elétricas depende de artifícios com
 
 Atualmente, a sociedade está em busca de novas soluções para se locomover, principalmente nas grandes cidades. Sendo assim, em alguns lugares do mundo o incetivo ao uso da bicicleta elétrica tem crescido bastante. Apesar de ter sido criada em 1895, somente agora que as grandes empresas como Mercedez Bens e Yamaha entraram no mercado com seus próprios modelos. Com a pandemia, e as restrições no trânsito nas grandes cidades, o interesse pela bicicleta elétrica está em constante crescimento, com um aumento de 46% de vendas em comparação ao ano de 2020.
 
-Na França, o governo está criando programas que em breve estarão disponíveis para a população, onde o governo subsidiará uma parte do valor de uma bicicleta elétrica para a população e deixem de utilizar os carros. Junto com este incentivo, a França pretende reduzir os níveis dos poluentes em 40% até 2030. Assim sendo, a França pretende criar uma tendência mundial do incentivo ao uso de bicicletas elétricas onde outros países como Finlandia já adotaram medidas semelhantes de incentivo.
+Na França, o governo está criando programas que em breve estarão disponíveis para a população, onde o governo subsidiará uma parte do valor de uma bicicleta elétrica para a população e deixem de utilizar os carros. Sendo assim, a França pretende criar uma tendência mundial do incentivo ao uso de bicicletas elétricas onde outros países como Finlandia já adotaram medidas semelhantes de incentivo.
+
+Atualmente, há diversos tipos possíveis de precificação a serem adotados durante a implementação deste processo. A escolha do modelo de precificação deve ser planejada levando em consideração os objetivos da precificação. Neste projeto, o sistema a ser adotado será a precificação baseada no custo, que, basicamente, leva em consideração os custos individuais de todas as partes inclusas no produto e posteriormente é adicionado ao valor final um determinado percentual controlado pelo usuário que poderá englobar valores para a margem de lucro e eventuais custos adicionais de difícil previsão.
+
 
 ## Público-Alvo
 
@@ -50,3 +53,6 @@ https://internacional.estadao.com.br/noticias/nytiw,mobilidade-bikes-eletricas-f
 
 (Wilson, 2021) Wilson. K: "Why Motorcycle Companies Are Betting on E-Bikes", SteetBlog USA, 2021. Disponível em:
 https://usa.streetsblog.org/2021/04/12/why-motorcycle-companies-are-betting-on-e-bikes/. Acessado em: 18/04/2021.
+
+(Casa Magalhães, 2021) Casa Magalhães: PRECIFICAÇÃO: COMO FAZER NA PRÁTICA. Disponível em:
+https://www.casamagalhaes.com.br/blog/financas/entenda-tudo-sobre-precificacao/. Acessado em: 18/04/2021
