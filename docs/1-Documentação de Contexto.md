@@ -32,7 +32,7 @@ Atualmente, a sociedade está em busca de novas soluções para se locomover, pr
 
 Na França, o governo está criando programas que em breve estarão disponíveis para a população, onde o governo subsidiará uma parte do valor de uma bicicleta elétrica para a população e deixem de utilizar os carros. Sendo assim, a França pretende criar uma tendência mundial do incentivo ao uso de bicicletas elétricas onde outros países como Finlandia já adotaram medidas semelhantes de incentivo.
 
-Atualmente, há diversos tipos possíveis de precificação a serem adotados durante a implementação deste processo. A escolha do modelo de precificação deve ser planejada levando em consideração os objetivos da precificação. Neste projeto, o sistema a ser adotado será a precificação baseada no custo, que, basicamente, leva em consideração os custos individuais de todas as partes inclusas no produto e posteriormente é adicionado ao valor final um determinado percentual controlado pelo usuário que poderá englobar valores para a margem de lucro e eventuais custos adicionais de difícil previsão.
+No cenário atual, há diversos tipos possíveis de precificação a serem adotados durante a implementação deste processo. A escolha do modelo de precificação deve ser planejada levando em consideração os objetivos da precificação. Neste projeto, o sistema a ser adotado será a precificação baseada no custo. Este tipo de precificação, basicamente, leva em consideração os custos individuais de todas as partes inclusas no produto e posteriormente é adicionado ao valor final um determinado percentual controlado pelo usuário, esse percentual poderá englobar valores para a margem de lucro e eventuais custos adicionais de difícil previsão que envolvem o produto.
 
 
 ## Público-Alvo
