@@ -36,8 +36,7 @@ O empreendimento de aluguel das bicicletas elétricas depende de artifícios com
 
 Atualmente, a sociedade está em busca de novas soluções para se locomover, principalmente nas grandes cidades. Sendo assim, em alguns lugares do mundo o incetivo ao uso da bicicleta elétrica tem crescido bastante. Apesar de ter sido criada em 1895, somente agora que as grandes empresas como Mercedez Bens e Yamaha entraram no mercado com seus próprios modelos. Com a pandemia, e as restrições no trânsito nas grandes cidades, o interesse pela bicicleta elétrica está em constante crescimento, com um aumento de 46% de vendas em comparação ao ano de 2020.
 
-Na França, o governo está criando programas que em breve estarão disponíveis para a população, onde o governo subsidiará uma parte do valor de uma bicicleta elétrica para a população e deixem de utilizar os carros. Sendo assim, a França pretende criar uma tendência mundial do incentivo ao uso de bicicletas elétricas onde outros países como Finlandia já adotaram medidas semelhantes de incentivo.
-
+Na França, o governo está criando programas que em breve estarão disponíveis para a população, onde o governo subsidiará uma parte do valor de uma bicicleta elétrica para a população e deixem de utilizar os carros. Junto com este incentivo, a França pretende reduzir os níveis dos poluentes em 40% até 2030. Assim sendo, a França pretende criar uma tendência mundial do incentivo ao uso de bicicletas elétricas onde outros países como Finlandia já adotaram medidas semelhantes de incentivo.
 
 ## Público-Alvo
 
