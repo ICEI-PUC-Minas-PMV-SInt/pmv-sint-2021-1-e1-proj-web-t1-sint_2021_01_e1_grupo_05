@@ -18,7 +18,7 @@ O aplicativo foi pensado para ter telas simples e amigáveis ao usuário durante
 
 ![Exemplo de Tela de Login](img/frame_1.png)
 
-Tela de login que terá opções de preenchimento de usupario e senha por parte do usuário.
+Tela de login que terá opções de preenchimento de usuário e senha por parte do usuário.
 
 ![Exemplo de Menu Principal](img/frame_2.png)
  
