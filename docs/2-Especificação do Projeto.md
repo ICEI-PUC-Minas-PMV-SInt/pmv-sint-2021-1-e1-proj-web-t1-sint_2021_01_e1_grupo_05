@@ -23,10 +23,13 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`           | QUERO/PRECISO ... `FUNCIONALIDADE`                      |PARA ... `MOTIVO/VALOR`                                         |
 |-------------------------------|---------------------------------------------------------|----------------------------------------------------------------|
-|Eu como Marcela Dutra          | preciso cadastrar o cartão de crédito para pagamento    |fazer o pagamento automático no final do uso da biciliceta      |
-|Eu como Gabriel Arruda         | visualizar o histórico de todas as viagens realizadas   |controle de uso                                                 |
-|Eu como Marcela Dutra          | visualizar o tempo da corrida e distância               |para visualizar como o preço foi calculado                      |
-|Eu como Gabriel Arruda         | ler QR CODE da bicicleta para iniciar viagem            |permitir que através do leitor de QR CODE seja iniciada a viagem|
+|Eu como Marcela Dutra          | preciso cadastrar receitas                              |calcular precificação                                           |
+|Eu como Gabriel Arruda         | cadastrar despesas variáveis                            |permitir o cadastro de despesas variáveis                       |
+|Eu como Gabriel Arruda         | cadastrar despesas fixas                                |calcular precificação                                           |
+|Eu como Marcela Dutra          | cadastrar premissas                                     |calcular precificação                                           |
+|Eu como Gabriel Arruda         | processo de geração de preços                           |calcular os preços                                              |
+|Eu como Marcela Dutra          | preciso cadastrar impostos                              |calcular precificação                                           |
+|Eu como Marcela Dutra          | preciso cadastrar investimentos                         |calcular precificação                                           |
 
 
 ## Requisitos
