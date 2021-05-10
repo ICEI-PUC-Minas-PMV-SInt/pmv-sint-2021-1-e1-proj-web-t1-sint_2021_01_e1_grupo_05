@@ -12,11 +12,11 @@ Este é um produto que tem como público alvo gestores e empresas que necessitem
 
 ## Personas
 
-| |Nome| Bio                      |Aplicativos           |
-| |---|--------------------------|----------------------|
-| |Gabriel Arruda | Nasceu em São Paulo e é formado em Administração na USP com mestrado em Universidade de Cambridge na Inglaterra, é solteiro e sempre está em busca de formas mais sustentáveis para se locomover em uma metrópole. Trabalha em uma ONG que busca reduzir a emissão de carbono no mundo, buscando financiamento para o incentivar formas de se locomover mais saudáveis e sustetáveis ao redor do mundo.         |Telegram, Yellow, Uber| 
-| |Marcela Dutra | Formada em economia pela UFMG, atualmente mora em Nova Iorque, iniciou sua carreira como bancária e após alguns anos passou a trabalhar com mercado financeiro em um escritório internacioal de uma maiores financeiras do mundo. Devido a insfraestrutura nova iorquina, se locomove apenas por bicicletas elétricas e reduziu para zero o consumo com veículos a combustão. | Whatsapp, Instagram, Mercado Livre|
-| |Nelson Rubens | Sócio fundador da Easy Street, uma empresa de mobilidade que iniciou no mercado brasileiro no ano de 2020 e com o projeto principal das bicicletas elétricas motorizadas. Nasceu no Brasil e foi naturalizado norte americano. Vive nos Estados Unidos desde os 9 anos e sempre viu a mobilidade urbana como um problema da sociedade moderna. | LinkedIn, Whatsapp, RedeTv! Plus|
+|Nome| Bio                      |Aplicativos           |
+|---|--------------------------|----------------------|
+|Gabriel Arruda | Nasceu em São Paulo e é formado em Administração na USP com mestrado em Universidade de Cambridge na Inglaterra, é solteiro e sempre está em busca de formas mais sustentáveis para se locomover em uma metrópole. Trabalha em uma ONG que busca reduzir a emissão de carbono no mundo, buscando financiamento para o incentivar formas de se locomover mais saudáveis e sustetáveis ao redor do mundo.         |Telegram, Yellow, Uber| 
+|Marcela Dutra | Formada em economia pela UFMG, atualmente mora em Nova Iorque, iniciou sua carreira como bancária e após alguns anos passou a trabalhar com mercado financeiro em um escritório internacioal de uma maiores financeiras do mundo. Devido a insfraestrutura nova iorquina, se locomove apenas por bicicletas elétricas e reduziu para zero o consumo com veículos a combustão. | Whatsapp, Instagram, Mercado Livre|
+|Nelson Rubens | Sócio fundador da Easy Street, uma empresa de mobilidade que iniciou no mercado brasileiro no ano de 2020 e com o projeto principal das bicicletas elétricas motorizadas. Nasceu no Brasil e foi naturalizado norte americano. Vive nos Estados Unidos desde os 9 anos e sempre viu a mobilidade urbana como um problema da sociedade moderna. |LinkedIn, Whatsapp, RedeTv! Plus|
 
 
 ## Histórias de Usuários
