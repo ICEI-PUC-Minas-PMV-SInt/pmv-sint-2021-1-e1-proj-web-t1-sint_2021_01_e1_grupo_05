@@ -7,15 +7,22 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
  Apresente as principais interfaces da plataforma. Discuta como ela foi elaborada de forma a atender os requisitos funcionais, não funcionais e histórias de usuário abordados nas <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a>.
 
-## User Flow
+## Fluxo de telas do aplicativo Cycle Power
 
-![Exemplo de UserFlow](img/frame_1.png)
+![Exemplo de Tela de Login](img/frame_1.png)
 
-Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapear todo fluxo de telas do site ou app. Essa técnica funciona para alinhar os caminhos e as possíveis ações que o usuário pode fazer junto com os membros de sua equipe.
+Tela de login que terá opções de preenchimento de usupario e senha por parte do usuário.
 
 ![Exemplo de Menu Principal](img/frame_2.png)
  
  O menu principal será responsável por apresentar todas as opções de caminho disponíveis ao usuário dentro do aplicativo.
+ 
+ ![Exemplo de Geração de Preços](img/frame_3.png)
+ 
+ A rotina de geração de preços será responsável por efetuar o cálculo com base nos registros previamente cadastrados e parâmetros inseridos.
+ 
+
+ 
  
 > **Links Úteis**:
 > - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
