@@ -21,6 +21,10 @@ Tela de login que terá opções de preenchimento de usupario e senha por parte 
  
  A rotina de geração de preços será responsável por efetuar o cálculo com base nos registros previamente cadastrados e parâmetros inseridos.
  
+ ![Exemplo de Premissas](img/frame_4.png)
+ 
+ Durante o cadastro das premissas será possível informar valores para os principais atributos de precificação.
+ 
 
  
  
