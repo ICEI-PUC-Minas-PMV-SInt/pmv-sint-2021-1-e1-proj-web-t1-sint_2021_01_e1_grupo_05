@@ -6,6 +6,13 @@
 Visão geral da interação do usuário pelas telas do sistema e protótipo interativo das telas com as funcionalidades que fazem parte do sistema (wireframes).
 
  Apresente as principais interfaces da plataforma. Discuta como ela foi elaborada de forma a atender os requisitos funcionais, não funcionais e histórias de usuário abordados nas <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a>.
+ 
+## Userflow
+
+O aplicativo foi pensado para ter telas simples e amigáveis ao usuário durante o cadastro e processamento da precificação. Inicialmente, após o login o usuário terá multiplas opções e poderá inclusive efetuar o cadastro de impostos de maneira simples e fácil. 
+
+![Exemplo de Tela de Login](img/wireframe.png)
+
 
 ## WireFrames
 
