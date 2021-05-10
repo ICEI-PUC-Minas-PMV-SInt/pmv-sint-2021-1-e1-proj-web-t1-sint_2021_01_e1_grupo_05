@@ -38,6 +38,16 @@ Tela de login que terá opções de preenchimento de usuário e senha por parte 
  
   ![Exemplo de Despesas Receitas/Impostos/Investimentos](img/frame_8.png)
  
- Tela responsável pelo cadastro, inclusão e edição de impostos do sistema.
+ Tela responsável pela visualização e seleção de impostos previamente cadastrados
+ 
+ ![Exemplo de Cadastro de Receitas](img/frame_10.png)
+ 
+ Tela que terá a opção de cadastro de nova receita.
+ 
+ ![Exemplo de Cadastro de Impostos](img/frame_11.png)
+ 
+ Tela com opção de inclusão de novos impostos.
+ 
+ 
 
 
