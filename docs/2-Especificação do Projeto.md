@@ -12,9 +12,28 @@ Este é um produto que tem como público alvo gestores e empresas que necessitem
 
 ## Personas
 
-Gabriel Arruda nasceu em São Paulo e é formado em Administração na USP com mestrado em Universidade de Cambridge na Inglaterra, é solteiro e sempre está em busca de formas mais sustentáveis para se locomover em uma metrópole. Trabalha em uma ONG que busca reduzir a emissão de carbono no mundo, buscando financiamento para o incentivar formas de se locomover mais saudáveis e sustetáveis ao redor do mundo.
+|Nome| Bio                      |Aplicativos           |
+|----|--------------------------|----------------------|
+Gabriel Arruda | Teste          |Telegram, Yellow, Uber| 
 
-Marcela Dutra é formada em economia pela UFMG, atualmente mora em Nova Iorque, iniciou sua carreira como bancária e após alguns anos passou a trabalhar com mercado financeiro em um escritório internacioal de uma maiores financeiras do mundo. Devido a insfraestrutura nova iorquina, se locomove apenas por bicicletas elétricas e reduziu para zero o consumo com veículos a combustão.
+Bio:
+Nasceu em São Paulo e é formado em Administração na USP com mestrado em Universidade de Cambridge na Inglaterra, é solteiro e sempre está em busca de formas mais sustentáveis para se locomover em uma metrópole. Trabalha em uma ONG que busca reduzir a emissão de carbono no mundo, buscando financiamento para o incentivar formas de se locomover mais saudáveis e sustetáveis ao redor do mundo.
+
+Aplicativos:
+Telegram
+Yellow
+Uber
+
+Nome:
+Marcela Dutra
+
+Bio:
+Formada em economia pela UFMG, atualmente mora em Nova Iorque, iniciou sua carreira como bancária e após alguns anos passou a trabalhar com mercado financeiro em um escritório internacioal de uma maiores financeiras do mundo. Devido a insfraestrutura nova iorquina, se locomove apenas por bicicletas elétricas e reduziu para zero o consumo com veículos a combustão.
+
+Aplicativos:
+Whatsapp
+Instagram
+Mercado Livre
 
 ## Histórias de Usuários
 
