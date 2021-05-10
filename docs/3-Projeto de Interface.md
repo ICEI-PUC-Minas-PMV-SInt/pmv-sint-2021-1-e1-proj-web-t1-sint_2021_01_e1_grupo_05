@@ -25,6 +25,9 @@ Tela de login que terá opções de preenchimento de usupario e senha por parte 
  
  Durante o cadastro das premissas será possível informar valores para os principais atributos de precificação.
  
+ ![Exemplo de Despesas Fixas/Variaveis](img/frame_5.png)
+ 
+ Tela de cadastro das despesas fixas/variáveis que circularão no aplicativo. 
 
  
  
