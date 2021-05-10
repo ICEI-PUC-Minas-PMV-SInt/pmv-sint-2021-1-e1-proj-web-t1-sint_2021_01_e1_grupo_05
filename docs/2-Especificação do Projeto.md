@@ -27,7 +27,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Eu como Gabriel Arruda         | cadastrar despesas variáveis                            |permitir o cadastro de despesas variáveis                       |
 |Eu como Gabriel Arruda         | cadastrar despesas fixas                                |calcular precificação                                           |
 |Eu como Marcela Dutra          | cadastrar premissas                                     |calcular precificação                                           |
-|Eu como Gabriel Arruda         | processo de geração de preços                           |calcular os preços                                              |
+|Eu como Gabriel Arruda         | processo de geração de preços                           |calcular os preços e lucros                                     |
 |Eu como Marcela Dutra          | preciso cadastrar impostos                              |calcular precificação                                           |
 |Eu como Marcela Dutra          | preciso cadastrar investimentos                         |calcular precificação                                           |
 
