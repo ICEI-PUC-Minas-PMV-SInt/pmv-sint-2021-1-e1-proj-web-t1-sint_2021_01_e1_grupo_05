@@ -37,11 +37,13 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito                                       | Prioridade |
 |------|--------------------------------------------------------------|------------|
-|RF-001| Permitir que o usuário cadastre cartão de crédito            |  ALTA      | 
-|RF-002| Permitir que o usuário cartão de crédito                     |  ALTA      |
-|RF-003| Permitir que o usuário edite cartão de crédito               |  ALTA      |
-|RF-004| Permitir que o usuário visualize um resumo ao final da viagem|  ALTA      |
-|RF-005| Permitir que o usuário visualize todas as viagens realizadas |  MÉDIA     |
+|RF-001| Cadastrar Despesas Fixas                                     |  ALTA      | 
+|RF-002| Cadastrar Despesas Variáveis                                 |  ALTA      |
+|RF-003| Processo de geração de preços                                |  ALTA      |
+|RF-004| Cadastro de Premissas                                        |  ALTA      |
+|RF-005| Cadastro de Receitas                                         |  MÉDIA     |
+|RF-005| Cadastro de Investimentos                                    |  MÉDIA     |
+|RF-005| Cadastro de Impostos                                         |  MÉDIA     |
 
 
 ### Requisitos não Funcionais
@@ -49,13 +51,12 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |ID     | Descrição do Requisito                             |Prioridade |
 |-------|-------------------------------------------------------|--------|
 |RNF-001| Redução de carbono                                    |  MÉDIA | 
-|RNF-002| Geolocalização                                        |  BAIXA |
 |RNF-002| Design amigável                                       |  ALTA  |
 
 ## Restrições
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| Primeira versão será lançada apenas Android           |
+|01| Primeira versão será lançada apenas Web               |
 |02| Primeira versão não será criada com filtros de preço  |
 
