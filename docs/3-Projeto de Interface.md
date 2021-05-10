@@ -27,7 +27,11 @@ Tela de login que terá opções de preenchimento de usupario e senha por parte 
  
  ![Exemplo de Despesas Fixas/Variaveis](img/frame_5.png)
  
- Tela de cadastro das despesas fixas/variáveis que circularão no aplicativo. 
+ Tela de cadastro das despesas fixas/variáveis que circularão no aplicativo.
+ 
+  ![Exemplo de Despesas Receitas/Impostos/Investimentos](img/frame_8.png)
+ 
+ Tela responsável pelo cadastro, inclusão e edição de impostos do sistema.
 
  
  
