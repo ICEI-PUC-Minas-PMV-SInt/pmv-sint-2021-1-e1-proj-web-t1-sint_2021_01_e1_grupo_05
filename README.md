@@ -9,6 +9,7 @@
 ## Integrantes
 
 - Bruno Araújo Souto
+- Dayane Soares Reis
 - Flávio dos Santos Pires Junior
 - Raphael Bruno de Oliveira
 - Rodolfo Tadeu Pacheco Ferreira
