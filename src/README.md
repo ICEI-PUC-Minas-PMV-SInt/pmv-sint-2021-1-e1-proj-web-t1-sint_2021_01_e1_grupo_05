@@ -1,11 +1,13 @@
-# Instruções de utilização
+# Instruções de utilização aplicação Cyclepower
+
+Abra a tela de login no seu navegador e realize o primeiro login na aplicação.
 
 ## Instalação do Site
 
-O site em HTML/CSS/JS é um projeto estático, logo pode ser utilizado tanto em servidores...
+Basta iniciar a tela de login para utilizar a aplicação.
 
 ## Histórico de versões
 
-### [0.1.0] - DD/MM/AAAA
-#### Adicionado
-- Adicionado ...
+### [0.0.10] - 21/06/2021
+#### Criação cálculo de preço
+- Foi criada a fórmula para cálculo do preço.
