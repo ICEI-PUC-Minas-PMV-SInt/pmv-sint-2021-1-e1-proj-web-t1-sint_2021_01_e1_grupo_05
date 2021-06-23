@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Cycle Power</title>
+		<meta charset="utf-8"/>
+		<meta
+			name="viewport"
+			content="width=device-width, initial-scale=1, shrink-to-fit=no"/>
+		<link rel="stylesheet" href="css/bootstrap.min.css" />
+		<link rel="stylesheet" href="css/all.min.css" />
+		<link rel="stylesheet" href="css/premissas.css" />
+		<script type="text/javascript" src="http://code.jquery.com/jquery-1.7.2.min.js"></script>
+		<script type="text/javascript" src="js/calcularPremissas.js"></script>
+		<script type="text/javascript" src="js/deletarPremissas.js" ></script>
+	</head>
+	<body>
+		<nav class="navbar navbar-expand-lg navbar-light bg-light">
+			<div class="container-fluid d-flex justify-content-between">
+				<div id="navbarSupportedContent">
+					<ul class="navbar-nav">
+						<li class="nav-item">
+							<span class="label label-default">Usuario: </span>
+							<span class="label label-default">Teste</span>
+						</li>
+						<li class="nav-item">
+							<span class="label label-default label-date">Data: </span>
+							<span class="label label-default">01/01/2022 </span>
+						</li>
+                    </ul>
+				</div>
+				<div>
+					<h5 class="label label-default">Premissas</h5>
+				</div>
+				<button class="btn btn-success btn-sm button-nav" type="submit">
+					Logout
+				</button>
+			</div>
+		</nav>
+		<div>
+			<header>
+				<h1>
+					<span>
+						<strong>Premissas</strong>
+					</span>
+				</h1>	
+			</header>	
+		</div>
+		<hr>
+	<div class="formulario">
+		<div class="form-group">
+		</div>
+		<div class="form-group">
+			<label><strong>Número de bikes:</strong></label>
+			<input
+			  id="numBikes" type="numBikes" name="numBikes"class="form-group"required
+			/>	
+		</div>
+		<div class="form-group">
+			<label><strong>Horas por dia:</strong></label>
+			<input
+			  id="horasDia" type="horasDia" name="horasDia"class="form-group"required
+			/>	
+		</div>
+		<div class="form-group">
+			<label><strong>Potencial de horas por mês:</strong></label>
+			<input
+			  id="potencialHorasMes" type="potencialHorasMes" name="potencialHorasMes"class="form-group" disabled
+			/>	
+		</div>
+		<div class="form-group">
+			<label><strong>Taxa de ocupação:</strong></label>
+			<input
+			  id="taxaOcupacao" type="taxaOcupacao" name="taxaOcupacao"class="form-group"required
+			/>	
+		</div>
+		<div class="form-group">
+			<label><strong>Horas mensais estimadas:</strong></label>
+			<input
+			  id="horasMensais" type="horasMensais" name="horasMensais"class="form-group" disabled
+			/>	
+		</div>
+	</div>
+		<footer>
+			<input class="Voltar" type='button' value='Voltar' onclick='history.go(-1)' />
+			<input class="Excluir" type='button' value='Excluir' onclick='history.go(-1); deletarPremissas()' />
+			<input id="calcular" class="Calcular" type='button' value='Calcular' onclick='calcularHorasMesaisEstimadas()' />
+			<input class="Confirmar" type='button' value='Confirmar' onclick='history.go(-1)'/>
+			
+		</footer>
+    </body>
+</html>    

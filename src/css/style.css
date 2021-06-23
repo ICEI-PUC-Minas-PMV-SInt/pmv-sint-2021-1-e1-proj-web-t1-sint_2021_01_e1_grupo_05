@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+/* definindo estilo do corpo do html */
+body{
+
+    font-family: 'Poppins', sans-serif; 
+
+    margin: 0;
+    height: 100vh; 
+    display: flex; 
+    align-items: center;
+    justify-items: center;
+
+    background-image: url(../img/background.jpeg ) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+/* definindo estilo das tags com classe content */
+.content{
+    margin: 8%;
+    background-color: #f7f7f7;
+    padding: 4rem 1rem 4rem 1rem;
+    box-shadow: 0 0 5px 5px rgba(0, 0, 0, .05);
+    border-radius: 10%;
+}
+
+/* definindo estilo das tags com classe signin-text */
+.signin-text {
+    font-style: normal;
+    font-weight: 600 !important;
+
+}
+
+/* definindo estilo das tags com classe form-control*/
+.form-control {
+    display: block;
+    width: 100%;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    border-color: #00ac96 !important;
+    border-style: solid !important;
+    border-width: 0 0 1px 0 !important;
+    padding: 0px !important;
+    color: #495057;
+    height: auto;
+    border-radius: 0;
+    background-color: #f7f7f7;
+    background-clip: padding-box;
+}
+
+/* definindo estilo das tags com classe form-control quando em focu*/
+.form-control:focus{
+    color: #495057;
+    background-color: #f7f7f7;
+    border-color: #f7f7f7;
+    outline: 0;
+    box-shadow: none;
+}
+
+/* definindo estilo das tags com classe btn-class*/
+.btn-class{
+    border-color: #00ac96;
+    color: #00ac96;
+}
+
+/* definindo estilo das tags com classe btn-class quando em hover*/
+.btn-class:hover{
+    background-color: #00ac96;
+    color: #f7f7f7;
+}
+
+.avatar {
+    width: 150px;
+    margin-bottom: 20px;
+    justify-content: center;
+    align-items: center;
+    vertical-align: center !important;
+}

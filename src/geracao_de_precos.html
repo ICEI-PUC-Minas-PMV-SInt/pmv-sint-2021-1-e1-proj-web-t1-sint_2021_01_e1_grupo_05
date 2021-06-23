@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Geração de Preços</title>
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="css/style2.css" />
+    <script type="text/javascript" src="js/obterData.js"></script>
+    <script type="text/javascript" src="http://code.jquery.com/jquery-1.7.2.min.js"></script>
+    <script type="text/javascript" src="js/carregaValoresPreco.js"></script>
+  </head>
+  <header>
+    <ul class="cabecalho">
+      <div class="cabecalho-left">
+        <li>Usuário: TESTE</li>
+        <li id="mostrardata">
+          Data:
+          <script>
+            document.write(obterData());
+          </script>
+        </li>
+      </div>
+      <li class="telaatual" id="telaatual">Geração de Preços</li>
+      <button id="logout">Logout</button>
+    </ul>
+  </header>
+  <body>
+    <div class="titulo">
+      <p id="titulo">Geração de Preços</p>
+    </div>
+    <div class="container">
+      <div class="caixas">
+        <div id="divvgerais">
+          <p id="Valores-Gerais" class="subtitulo">Valores Gerais</p>
+          <form id="boxvgerais">
+            <label for="nbikes">Número de Bikes:</label>
+            <input type="text" id="nbikes" name="nbikes" /><br />
+            <label for="horasDia">Horas por Dia:</label>
+            <input type="text" id="horasDia" name="horasDia" /><br />
+            <label for="potencial">Potencial:</label>
+            <input type="text" id="potencial" name="potencial " /><br />
+            <label for="txocp">Taxa de Ocupação:</label>
+            <input type="text" id="txocp" name="txocp " /><br />
+            <label for="percentualImposto">Impostos: </label>
+            <input type="text" id="percentualImposto" name="impostos "/><br />
+          </form>
+        </div>
+        <div id="divdfix">
+          <p id="dfix" class="subtitulo">Despesas Fixas e Variáveis</p>
+          <form id="boxdespesas">
+            <label for="aluguel">Aluguel: </label>
+            <input type="text" id="aluguel" name="aluguel" /><br />
+            <label for="funcionarios">Funcionários:</label>
+            <input type="text" id="funcionarios" name="funcionarios" /><br />
+            <label for="seguros">Seguros</label>
+            <input type="text" id="seguros" name="seguros" /><br />
+            <label for="energia">Engergia/Hora:</label>
+            <input type="text" id="energia" name="energia" /><br />
+            <label for="variaveis">Variáveis:</label>
+            <input type="text" id="variaveis" name="variaveis" /><br />
+          </form>
+        </div>
+      </div>
+      <div class="penultimobox">
+        <div class="ultimobox">
+          <div class="espacamento">
+            <div class="cultbox1">
+              <p id="investimentos">Investimentos</p>
+            </div>
+            <div class="cultbox2">
+              <p>Valor Mensal</p>
+              <input type="text" id="valmen1" name="valmen1" /><br />
+              <input type="text" id="valmen2" name="valmen2" /><br />
+            </div>
+            <div class="cultbox3">
+              <p>Valor/Hora</p>
+              <input type="text" id="valhor1" name="valhor1" /><br />
+              <input type="text" id="valhor2" name="valhor2" /><br />
+            </div>
+          </div>
+        </div>
+        <div class="mliquidabox">
+          <form>
+            <label for="mliquida">Margem Líquida:</label>
+            <input type="text" id="mliquida" name="mliquida" /><br />
+            <label for="pvenda">Preço de Venda:</label>
+            <input type="text" id="pvenda" name="pvenda" /><br />
+          </form>
+        </div>
+      </div>
+      <div class="buttonsvec">
+        <button type="button" id="bvoltar" onclick="history.go(-1)">
+          Voltar
+        </button>
+        <button type="button" id="bexcluir" onclick="history.go(-1)">
+          Excluir
+        </button>
+        <button type="button" id="bconfirmar" onclick="gerar()">
+          Confirmar
+        </button>
+      </div>
+    </div>
+    <script type="text/javascript" src="js/gerarPreco.js"></script>
+  </body>
+</html>

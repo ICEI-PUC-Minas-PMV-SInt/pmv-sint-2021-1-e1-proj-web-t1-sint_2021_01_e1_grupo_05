@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Cycle Power</title>
+		<meta charset="utf-8"/>
+		<meta
+			name="viewport"
+			content="width=device-width, initial-scale=1, shrink-to-fit=no"/>
+		<link rel="stylesheet" href="css/bootstrap.min.css" />
+		<link rel="stylesheet" href="css/all.min.css" />
+		<link rel="stylesheet" href="css/Despesas.css"/>
+        <script type="text/javascript" src="http://code.jquery.com/jquery-1.7.2.min.js"></script>
+        <script type="text/javascript" src="js/cadastrarNovaDespesaa.js"></script>
+	</head>
+	<body>
+        <form action="js/cadastrarNovaDespesaa.js">
+		<nav class="navbar navbar-expand-lg navbar-light bg-light">
+			<div class="container-fluid d-flex justify-content-between">
+				<div id="navbarSupportedContent">
+					<ul class="navbar-nav">
+						<li class="nav-item">
+							<span class="label label-default">Usuario: </span>
+							<span class="label label-default">Teste</span>
+						</li>
+						<li class="nav-item">
+							<span class="label label-default label-date">Data: </span>
+							<span class="label label-default">01/01/2022 </span>
+						</li>
+                    </ul>
+				</div>
+				<div>
+					<h5 class="label label-default">Cadastro de Despesas Fixas e Variáveis</h5>
+				</div>
+				<button class="btn btn-success btn-sm button-nav" type="submit">
+					Logout
+				</button>
+			</div>
+        </nav>
+        <div>
+			<header>
+				<h1>
+					<span>
+						<strong>Despesas Fixas</strong>
+					</span>
+				</h1>
+                <hr>	
+			</header>
+            <div class="formulario">
+                <div class="form-group">
+                    <label style="padding-left: 60px"><strong>Aluguel:</strong></label>
+                    <input id="aluguel" type="Aluguel" name="Aluguel"class="form-group" required/>
+                </div>
+                <div class="form-group">
+                    <label style="padding-left: 20px"><strong>Funcionários:</strong></label>
+                    <input id="funcionarios" type="Funcionários" name="Funcionários"class="form-group" required/>
+                </div>
+                <div class="form-group">
+                    <label style="padding-left: 65px"><strong>Seguro:</strong></label>
+                    <input id="seguro" type="Seguro" name="Seguro"class="form-group" required/>
+                </div>  
+            </div>
+            </form>
+            <header>
+                <h1>
+                    <span>
+                        <strong>Despesas Variáveis</strong>
+                    </span>
+                </h1>
+                <hr>
+            </header>	
+            <div class="formulario">
+                <div class="form-group">
+                    <label style="padding-left: 80px"><strong>Valor Total:</strong></label>
+                    <input id="energia" type="Energia" name="Energia"class="form-group" required/>
+                    <label><strong>%</strong></label>
+                </div>
+<!--                <div class="form-group">-->
+<!--                    <label style="padding-left: 60px"><strong>Comissão:</strong></label>-->
+<!--                    <input id="comissao" type="Comissão" name="Comissão"class="form-group" required/>-->
+<!--                    <label><strong>%</strong></label>-->
+<!--                </div>-->
+            </div>  
+        </div>
+        <div>
+            <footer>
+<!--                <input class="Cadastrar" type="button" value="Cadastrar Nova Despesa" onclick="Adicionar()">-->
+                <input class="Voltar" type='button' value='Voltar' onclick='history.go(-1)'>
+                <input class="Excluir" type='button' value='Excluir' onclick='history.go(-1)'>
+                <input class="Confirmar" type='button' value='Confirmar' onclick='cadastrarNovaDespesaa(); history.go(-1)'>
+            </footer>
+        </div>
+        </form>
+    </body>
+</html>
+

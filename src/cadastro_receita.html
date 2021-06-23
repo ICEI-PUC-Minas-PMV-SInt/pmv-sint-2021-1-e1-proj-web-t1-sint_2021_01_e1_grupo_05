@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Cycle Power</title>
+		<meta charset="utf-8"/>
+		<meta
+			name="viewport"
+			content="width=device-width, initial-scale=1, shrink-to-fit=no"/>
+		<link rel="stylesheet" href="css/bootstrap.min.css" />
+		<link rel="stylesheet" href="css/all.min.css" />
+		<link rel="stylesheet" href="css/nova_receita.css" />
+	</head>
+	<body>
+		<nav class="navbar navbar-expand-lg navbar-light bg-light">
+			<div class="container-fluid d-flex justify-content-between">
+				<div id="navbarSupportedContent">
+					<ul class="navbar-nav">
+						<li class="nav-item">
+							<span class="label label-default">Usuario: </span>
+							<span class="label label-default">Teste</span>
+						</li>
+						<li class="nav-item">
+							<span class="label label-default label-date">Data: </span>
+							<span class="label label-default">01/01/2022 </span>
+						</li>
+                    </ul>
+				</div>
+				<div>
+					<h5 class="label label-default">Cadastro de Receita</h5>
+				</div>
+				<button class="btn btn-success btn-sm button-nav" type="submit">
+					Logout
+				</button>
+			</div>
+		</nav>
+		<div>
+			<header>
+				<h1>
+					<span>
+						<strong>Cadastrar nova receita</strong>
+					</span>
+				</h1>	
+			</header>	
+		</div>
+		<hr>
+	<div class="formulario">
+		<div class="form-group">
+			<label><strong>Descrição:</strong></label>
+			<input
+			  id="Descrição" type="Descrição" name="Descrição"class="form-group" required
+			/>	
+		</div>
+		<div class="form-group">
+			<label><strong>Percentual:</strong></label>
+			<input
+			  id="Percentual" type="Percentual" name="Percentual"class="form-group"required
+			/>	
+			<label><strong>%</strong></label>
+		</div>
+		<div class="form-group">
+			<label><strong>Valor:</strong></label>
+			<input
+			  id="Valor" type="Valor" name="Valor"class="form-group"required
+			/>	
+		</div>
+	</div>
+		<footer>
+			<input class="Voltar" type='button' value='Voltar' onclick='history.go(-1)' />
+			<input class="Excluir" type='button' value='Excluir' onclick='history.go(-1)' />
+			<input class="Confirmar" type='button' value='Confirmar' onclick='history.go(-1)'/>
+		</footer>
+    </body>
+</html>    

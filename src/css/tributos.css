@@ -1,0 +1,126 @@
+body{
+    font-family: "Poppins", sans-serif;
+    margin: 0;
+    height: 100vh;
+    background: rgb(185, 231, 152);
+    background: linear-gradient(
+            180deg,
+            rgba(185, 231, 152, 1) 0%,
+            rgba(177, 161, 199, 1) 67%,
+            rgba(180, 154, 218, 1) 100%
+    );
+    background-repeat: no-repeat;
+}
+.label-date {
+    margin-left: 20px;
+}
+.button-nav{
+    border-radius: 100px;
+    width: 5%;
+    border-color: black;
+    color: black;
+}
+header{
+    padding-top: 20px;
+    padding-left: 30px;
+
+}
+
+input#Publicidade{
+    width: 300px;
+    border: 0;
+}
+
+input#valorImposto{
+    width: 300px;
+    border: 0;
+}
+
+input#valorPercImposto{
+    width: 300px;
+    border: 0;
+}
+
+input#nomeImposto{
+    width: 300px;
+    border: 0;
+}
+input#depereciacaoBicicleta{
+    width: 300px;
+    border: 0;
+}
+input#taxaBicicleta{
+    width: 100px;
+    border: 0;
+}
+
+input#valorBicicletario{
+    width: 300px;
+    border: 0;
+}
+input#depereciacaoBicicletario{
+    width: 300px;
+    border: 0;
+}
+input#taxaBicicletario{
+    width: 100px;
+    border: 0;
+}
+
+input#valorBicicleta{
+    width: 300px;
+    border: 0;
+}
+
+input#valorPublicidade{
+    width: 300px;
+    border: 0;
+}
+
+input#valorHora{
+    width: 100px;
+    border: 0;
+}
+
+#adicionarImposto{
+    border-radius: 100px;
+}
+.formulario{
+    border: solid 1px;
+    margin-top: 1cm;
+    margin-left: 30px;
+    margin-right: 50px;
+    padding-top: 20px;
+}
+.form-group{
+    margin-left: 20px;
+}
+.Voltar{
+    border-radius: 100px;
+    position:absolute;
+    bottom: 3px;
+    width: 10%;
+    left: 30px;
+}
+.Excluir{
+    border-radius: 100px;
+    position:absolute;
+    bottom: 30px;
+    width: 10%;
+    left: 78%;
+}
+.Confirmar{
+    border-radius: 100px;
+    position:absolute;
+    bottom: 30px;
+    width: 10%;
+    left: 90%;
+}
+hr {
+    width: 98%;
+    background-color: white;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: -5px;
+    border-color: white;
+}
