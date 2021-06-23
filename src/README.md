@@ -8,6 +8,6 @@ Basta iniciar a tela de login para utilizar a aplicação.
 
 ## Histórico de versões
 
-### [0.0.10] - 22/06/2021
+### [0.0.10] - 21/06/2021
 #### Criação cálculo de preço
 - Foi criada a fórmula para cálculo do preço.
