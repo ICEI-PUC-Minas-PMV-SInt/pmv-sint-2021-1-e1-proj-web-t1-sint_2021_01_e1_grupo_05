@@ -12,6 +12,7 @@
     />
     <link rel="stylesheet" href="css/style2.css" />
     <script type="text/javascript" src="js/obterData.js"></script>
+    <script type="text/javascript" src="js/mostraUsuario.js"></script>
     <script
       type="text/javascript"
       src="http://code.jquery.com/jquery-1.7.2.min.js"
@@ -20,7 +21,12 @@
   <header>
     <ul class="cabecalho">
       <div class="cabecalho-left">
-        <li>Usuário: TESTE</li>
+        <li>
+          Usuário:
+          <script>
+            document.write(mostraUsuario());
+          </script>
+        </li>
         <li id="mostrardata">
           Data:
           <script>
