@@ -18,6 +18,7 @@ function storage() {
   for (var i = 0; i < chaves.length; i++) {
     if (chaves[i] == loginTemp) {
       if (Object.values(loginLocalStorage)[i] == senhaTemp) {
+        location.href = "menu.html";
         return alert("USUÁRIO LOGADO COM SUCESSO!!!");
       }
     }
