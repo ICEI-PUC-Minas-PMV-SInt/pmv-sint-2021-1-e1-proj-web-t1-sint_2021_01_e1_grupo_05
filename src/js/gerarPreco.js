@@ -3,6 +3,7 @@ function gerar() {
     var tributos = JSON.parse(window.localStorage.getItem('tributos'));
     let premissas = JSON.parse(localStorage.getItem("premissas"));
     let despesas = JSON.parse(localStorage.getItem("despesas"));
+    let m = parseInt(precoGerado.mliquida) ;
 
 
     // p = (f + i / y) + x . k / 1 - (t + v + m / 100)
@@ -26,7 +27,6 @@ function gerar() {
     let t = parseInt(tributos.Impostos.valorPercentual);
     let x = 0.2;
     let k = 0.9;
-    let m = 30;
 
     let p = ((f + i) / y + x * k) / (1 - ((t + v + m) / 100));
 

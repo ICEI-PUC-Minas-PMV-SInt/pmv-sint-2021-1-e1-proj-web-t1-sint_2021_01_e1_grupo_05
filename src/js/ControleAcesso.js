@@ -1,28 +1,35 @@
 function storage() {
+  const loginTemp = document.querySelector("#login").value;
+  const senhaTemp = document.querySelector("#senha").value;
+  const usuarioAtual = { [loginTemp]: senhaTemp };
 
-    loginObj = setLoginObj(document.getElementById("login").value, document.getElementById("senha").value);
+  localStorage.setItem("loginLocalTemp", JSON.stringify(usuarioAtual));
+  var loginLocalStorage = JSON.parse(localStorage.getItem("loginObj"));
+  console.log(loginLocalStorage);
 
-    var validador = 0
-    var re = new RegExp(/^\s+|\s+$/g, "");
+  if (loginLocalStorage == null) {
+    localStorage.setItem("loginObj", JSON.stringify(usuarioAtual));
+    return alert("Primeira validação!");
+  }
 
-    for (i = 0; i < localStorage.length; i++) {
-        const a = localStorage.key(i).replace(re, " ");
-        if (localStorage.key(i).toString().toUpperCase().replaceAll(' ', '') === loginObj.login().toUpperCase().replaceAll(' ', '')) {
-            validador = validador + 1
-            if (loginObj.senha !== localStorage.getItem(localStorage.key(i))) {
-                return alert("SENHA INCORRETA!!!")
-            }
-        } else {
-            alert('ERROR.')
-        }
+  var chaves = Object.keys(loginLocalStorage);
+  var valores = Object.values(loginLocalStorage);
+
+  for (var i = 0; i < chaves.length; i++) {
+    if (chaves[i] == loginTemp) {
+      if (Object.values(loginLocalStorage)[i] == senhaTemp) {
+        return alert("USUÁRIO LOGADO COM SUCESSO!!!");
+      }
     }
-
-    function setLoginObj(login, senha) {
-        var loginObj = {
-            login: login.toString(),
-            senha: senha.toString()
-        }
-
-        return loginObj;
+    if (chaves[i] == loginTemp && valores[i] != senhaTemp) {
+      console.log(loginTemp, senhaTemp);
+      return alert("SENHA INCORRETA!!!");
     }
+  }
+
+  {
+    Object.assign(loginLocalStorage, usuarioAtual);
+    localStorage.setItem("loginObj", JSON.stringify(loginLocalStorage));
+  }
+  return alert("USUÁRIO CADASTRADO COM SUCESSO!!!");
 }
