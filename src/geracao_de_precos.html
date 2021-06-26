@@ -90,7 +90,12 @@
         <div class="mliquidabox">
           <form>
             <label for="mliquida">Margem Líquida:</label>
-            <input type="text" id="mliquida" name="mliquida" /><br />
+            <input
+              type="text"
+              id="mliquida"
+              name="mliquida"
+              onblur="atualizarPrecoFinal()"
+            /><br />
             <label for="pvenda">Preço de Venda:</label>
             <input type="text" id="pvenda" name="pvenda" /><br />
           </form>

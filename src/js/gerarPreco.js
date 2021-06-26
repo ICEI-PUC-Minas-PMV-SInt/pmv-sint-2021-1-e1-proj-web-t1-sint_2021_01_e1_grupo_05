@@ -2,7 +2,7 @@ function gerar() {
   var tributos = JSON.parse(window.localStorage.getItem("tributos"));
   let premissas = JSON.parse(localStorage.getItem("premissas"));
   let despesas = JSON.parse(localStorage.getItem("despesas"));
-  let m = 20;
+  let m = parseInt(document.querySelector("#mliquida").value);
 
   // p = (f + i / y) + x . k / 1 - (t + v + m / 100)
   // let i = 2000;
@@ -24,9 +24,7 @@ function gerar() {
   let t = parseInt(tributos.Impostos.valorPercentual);
   let x = 0.2;
   let k = 0.9;
-
   let p = ((f + i) / y + x * k) / (1 - (t + v + m) / 100);
-
   let faturamento = y * p;
   let valorFinalImposto = faturamento * (t / 100);
   let depreciacao = i;
@@ -45,7 +43,7 @@ function gerar() {
   );
 
   let precoGerado = JSON.stringify({
-    mliquida: percentualFaturamento,
+    mliquida: m,
     pvenda: p,
   });
 
@@ -90,3 +88,36 @@ function valoresLocalStorage() {
   pvenda.value = precosGerados.pvenda;
 }
 valoresLocalStorage();
+
+function atualizarPrecoFinal() {
+  let tributos = JSON.parse(window.localStorage.getItem("tributos"));
+  let premissas = JSON.parse(localStorage.getItem("premissas"));
+  let despesas = JSON.parse(localStorage.getItem("despesas"));
+  let m = parseInt(document.querySelector("#mliquida").value);
+  let i = parseInt(2000);
+  let f = parseInt(despesas.totalFixas);
+  let v = parseInt(despesas.variaveis);
+  let y = parseInt(premissas.estimativaHorasMensais);
+  let t = parseInt(tributos.Impostos.valorPercentual);
+  let x = 0.2;
+  let k = 0.9;
+  let p = ((f + i) / y + x * k) / (1 - (t + v + m) / 100);
+  let faturamento = y * p;
+  let valorFinalImposto = faturamento * (t / 100);
+  let depreciacao = i;
+  let despesasVariaveis = faturamento * (v / 100);
+  let energia = x * y * k;
+
+  let lucro =
+    faturamento -
+    valorFinalImposto -
+    depreciacao -
+    despesasVariaveis -
+    f -
+    energia;
+  let percentualFaturamento = parseFloat((lucro / faturamento) * 100).toFixed(
+    2
+  );
+  document.querySelector("#pvenda").value = p;
+}
+atualizarPrecoFinal();
