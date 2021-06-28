@@ -9,7 +9,7 @@ function storage() {
 
   if (loginLocalStorage == null) {
     localStorage.setItem("loginObj", JSON.stringify(usuarioAtual));
-    return alert("Primeira validação!");
+    return alert("USUÁRIO CADASTRADO COM SUCESSO!!!");
   }
 
   var chaves = Object.keys(loginLocalStorage);
