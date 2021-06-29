@@ -16,7 +16,7 @@
 |Passos|1) Acessar as diferentes telas e preencher os campos cadastrais de valores.
 |Critérios de Êxito|Os valores precisam ser cadastrados e seus valores devem ser armazenados na local storage e cada tela deve ter uma chave específica.
 
-|Caso de Teste  |Geração do Preço final |
+|Caso de Teste|Geração do Preço final |
 |--|--|
 |Requisitos Associados| Tela de geração de preços previamente criada e com a mecânica de buscar os valores associados ao cálculo da localstorage.|
 |Objetivo do Teste| Calcular o preço da hora de uso final considerando os todos os parâmetros previamente cadastrados.
