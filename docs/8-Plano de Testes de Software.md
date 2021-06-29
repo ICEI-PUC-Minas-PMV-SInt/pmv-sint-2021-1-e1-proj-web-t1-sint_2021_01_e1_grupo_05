@@ -2,18 +2,23 @@
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>
 
-Apresente os cenários de testes utilizados na realização dos testes da sua aplicação. Escolha cenários de testes que demonstrem os requisitos sendo satisfeitos.
+|Caso de Teste|Validação de Login  |
+|--|--|
+|Requisitos Associados| Tela de login e funcionalidade de armazenamento dos dados na localstorage previamente implementada.|
+|Objetivo do Teste| Autenticar corretamente os diversos usuários cadastrados para acessar a solução.
+|Passos|1) Preencher usuário e senha e efetuar primeiro login para cadastro 2)Acessar novamente preenchendo corretamente os dados com usuário e senha previamente cadastrados. 3) Preencher o campo de usuário informando um novo usuário para cadastro.
+|Critérios de Êxito|Os usuários precisam ser cadastrados e seus dados de login e senha salvos no local storage, novos usuários precisam ser cadastrados no primeiro login, o usuário e senha deve ser consistido de maneira que uma senha incorreta inviabilize o login do usuário
 
-Enumere quais cenários de testes foram selecionados para teste. Neste tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo de usuários que foi escolhido para participar do teste e as ferramentas utilizadas.
- 
-## Ferramentas de Testes (Opcional)
+|Caso de Teste|Inclusão de valores nas telas  |
+|--|--|
+|Requisitos Associados| Telas de cadastros previamente criadas com a mecânica de salvar dados utilizando a local storage previamente implementada.|
+|Objetivo do Teste| Incluir com sucesso valores que participam do cálculo nas diferentes telas do sistema.
+|Passos|1) Acessar as diferentes telas e preencher os campos cadastrais de valores.
+|Critérios de Êxito|Os valores precisam ser cadastrados e seus valores devem ser armazenados na local storage e cada tela deve ter uma chave específica.
 
-Comente sobre as ferramentas de testes utilizadas.
- 
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
-> - [Criação e Geração de Planos de Teste de Software](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
-> - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
+|Caso de Teste|Geração do Preço final |
+|--|--|
+|Requisitos Associados| Tela de geração de preços previamente criada e com a mecânica de buscar os valores associados ao cálculo da localstorage.|
+|Objetivo do Teste| Calcular o preço da hora de uso final considerando os todos os parâmetros previamente cadastrados.
+|Passos|1) Cadastrar previamente os valores nas demais telas do sistema 2) Acessar a tela de "Geração de Preços" 3)Preencher o valor de margem líquida e execuar o cálculo final.
+|Critérios de Êxito|O valor final deve ser calculado de acordo com os parâmetros passados e respeitando as premissas da regra de cálculo estipulada.
