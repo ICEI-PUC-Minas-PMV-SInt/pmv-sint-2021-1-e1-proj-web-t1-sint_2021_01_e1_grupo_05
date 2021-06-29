@@ -11,7 +11,7 @@
 
 |Caso de Teste|Inclusão de valores nas telas  |
 |--|--|
-|Requisitos Associados | Telas de cadastros previamente criadas com a mecânica de salvar dados utilizando a local storage previamente implementada.|
+|Requisitos Associados| Telas de cadastros previamente criadas com a mecânica de salvar dados utilizando a local storage previamente implementada.|
 |Objetivo do Teste| Incluir com sucesso valores que participam do cálculo nas diferentes telas do sistema.
 |Passos|1) Acessar as diferentes telas e preencher os campos cadastrais de valores.
 |Critérios de Êxito|Os valores precisam ser cadastrados e seus valores devem ser armazenados na local storage e cada tela deve ter uma chave específica.
