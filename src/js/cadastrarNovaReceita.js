@@ -10,8 +10,7 @@ function Adicionar(){
         },
         Investimento: {
             Bicicleta : {
-                depereciacaoBicicleta: $("#depereciacaoBicicleta").val() ,
-                valorBicicleta: $("#valorBicicleta").val() ,
+                depreciacaoTotal: $("#depreciacaoTotal").val() ,
                 taxaBicicleta: $("#taxaBicicleta").val(), 
             },
             Bicicletario : {
