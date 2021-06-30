@@ -10,14 +10,8 @@ function cadastrarNovoTributo(){
                 valorPercentual: $("#valorPercImposto").val()
             },
             InvestimentoBicicleta: {
-                depereciacaoBicicleta: $("#depereciacaoBicicleta").val(),
-                valorBicicleta: $("#valorBicicleta").val(),
+                depreciacaoTotal: $("#depreciacaoTotal").val(),
                 taxaBicicleta: $("#taxaBicicleta").val()
-            },
-            InvestimentoBicicletario: {
-                depereciacaoBicicleta: $("#depereciacaoBicicletario").val(),
-                valorBicicleta: $("#valorBicicletario").val(),
-                taxaBicicleta: $("#taxaBicicletario").val()
             }
     });
 
