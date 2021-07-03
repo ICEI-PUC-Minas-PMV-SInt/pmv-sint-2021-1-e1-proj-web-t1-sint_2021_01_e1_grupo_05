@@ -3,7 +3,7 @@
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
 
-A metodologia do grupo para atacar o problema foi criar as tarefas no github as issues e deixar a critério de cada um escolher a tarefa e executar a mesma.Fizemos um grupo no whatsap para interagirmos sobre o andamento e necessidades do projeto.
+A metodologia do grupo para atacar o problema foi criar as tarefas no github as issues e deixar a critério de cada um escolher a tarefa e executar a mesma.Fizemos um grupo no whatsap para interagirmos sobre o andamento e necessidades do projeto. A gestão dos processos,estrutura do projeto, como também correções de bugs na aplicação foram feitas por meio do git e o grupo no whatsapp.
 
 
 ## Controle de Versão
