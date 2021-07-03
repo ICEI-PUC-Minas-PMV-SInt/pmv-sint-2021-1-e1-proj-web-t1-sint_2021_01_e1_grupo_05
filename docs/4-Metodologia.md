@@ -5,7 +5,6 @@
 
 A metodologia do grupo para atacar o problema foi criar as tarefas no github as issues e deixar a critério de cada um escolher a tarefa e executar a mesma.Fizemos um grupo no whatsap para interagirmos sobre o andamento e necessidades do projeto.
 
-Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
 
 ## Controle de Versão
 
