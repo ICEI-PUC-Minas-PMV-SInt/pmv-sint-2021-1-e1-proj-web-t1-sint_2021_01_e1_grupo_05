@@ -2,32 +2,26 @@
 
 <span style="color:red">Pré-requisitos: <a href="3-Projeto de Interface.md"> Projeto de Interface</a></span>
 
-Definição de como o software é estruturado em termos dos componentes que fazem parte da solução e do ambiente de hospedagem da aplicação.
+A aquitetura do projeto consiste em uma aplicação web utilziando as tecnológias HTML, CSS, JavaScript. Onde os dados são gravados em um LocalStorage no formato JSON. A aplicação foi hospeado na nuvem pela plataforma Heroku.
 
 ## Diagrama de componentes
 
-Diagrama que permite a modelagem física de um sistema, através da visão dos seus componentes e relacionamentos entre os mesmos.
+Os componentes que compões a estrutura do CyclePower são apresentados conforme a figura 1.
 
-Exemplo: 
+![Untitled Diagram (1)](https://user-images.githubusercontent.com/20197817/124372055-4229bc00-dc5e-11eb-9d82-f1b3707523b4.png)
 
-Os componentes que fazem parte da solução são apresentados na Figura XX.
 
-![Diagrama de Componentes](img/componentes.png)
-<center>Figura XX - Arquitetura da Solução</center>
+<center>Figura 1 - Arquitetura da Solução</center>
 
 A solução implementada conta com os seguintes módulos:
-- **Navegador** - Interface básica do sistema  
-  - **Páginas Web** - Conjunto de arquivos HTML, CSS, JavaScript e imagens que implementam as funcionalidades do sistema.
+- **Navegador** - Qualquer navegador com suporte ao HTML5.
+  - **Páginas Web** - CyclePower possui um conjunto de arquivos HTML, CSS e JavaScript que permitem realizar os processos necessário para gerar preços.
    - **Local Storage** - armazenamento mantido no Navegador, onde são implementados bancos de dados baseados em JSON. São eles: 
-     - **Canais** - seções de notícias apresentadas 
-     - **Comentários** - registro de opiniões dos usuários sobre as notícias
-     - **Preferidas** - lista de notícias mantidas para leitura e acesso posterior
- - **News API** - plataforma que permite o acesso às notícias exibidas no site.
- - **Hospedagem** - local na Internet onde as páginas são mantidas e acessadas pelo navegador. 
-
-> **Links Úteis**:
->
-> - [Whimsical](https://whimsical.com/)
+     - **Login** - Salva informações do usuário ao logar
+     - **Tributos** - registro de valores de impostos e investimentos
+     - **Despesas** - registro de Aluguel, Funcionários, seguro e despesas variáveis
+     - **Premissas** - registro de premissas
+ - **Hospedagem** - Hospedam através da plataforma Heroku.
 
 Inclua um diagrama da solução e descreva os módulos e as tecnologias que fazem parte da solução. Discorra sobre o diagrama.
 
@@ -64,14 +58,14 @@ Descreva aqui qual(is) tecnologias você vai usar para resolver o seu problema, 
 
 Apresente também uma figura explicando como as tecnologias estão relacionadas ou como uma interação do usuário com o sistema vai ser conduzida, por onde ela passa até retornar uma resposta ao usuário.
 
+Foram utilizadas técnologias como HTML para criação das páginas em conjunto ao framework Bootstrap para estilização das páginas. Para coletar e gravar as informações foram usados scripts com linguagem JavaScript integrando ao LocalStorage do navegador. Para desenvolvimento, ferramentas como WebStorm e Visual Studio Code foram utilizadas no desenvolvimento com apoio de plugins especificos para o desenvolvimento web.
+
+Através do comportamento do usuário validado através de scripts, conseguimos enviar informações informando o resultado das suas ações. Como por exemplo, ao realizar o login uma alerta é enviada para o cliente informando que o cadastro do usuário foi efetuado com sucesso:
+
+![image](https://user-images.githubusercontent.com/20197817/124372139-ee6ba280-dc5e-11eb-8ea2-64a4570bdf9b.png)
+
+
 
 ## Hospedagem
 
-Explique como a hospedagem e o lançamento da plataforma foi feita.
-
-> **Links Úteis**:
->
-> - [Website com GitHub Pages](https://pages.github.com/)
-> - [Programação colaborativa com Repl.it](https://repl.it/)
-> - [Getting Started with Heroku](https://devcenter.heroku.com/start)
-> - [Publicando Seu Site No Heroku](http://pythonclub.com.br/publicando-seu-hello-world-no-heroku.html)
+A hospedagem foi realizada através do Heroku utilizando o recurso de deploy automático sempre que houver uma nova atualização na branch MAIN.
