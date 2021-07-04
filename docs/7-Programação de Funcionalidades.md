@@ -4,7 +4,7 @@
 
 1.0 Tela de Login
 
-Tela de login foi criada com o objeto de registrar os logins efetuados na aplicação. Para isto é utilizado uma página HTML estililzada com bootstrap(index.html e index.css). Para registrar e controlar o login, é realizada a validação e gravação de um JSON do usuário via JavaScript para LocalStorage (controleAcesso.js).
+Tela de login foi criada com o objeto de registrar os logins efetuados na aplicação. Para isto é utilizado uma página HTML estililzada com bootstrap (index.html e index.css). Para registrar e controlar o login, é realizada a validação e gravação de um JSON do usuário via JavaScript para LocalStorage (controleAcesso.js).
 
 2.0 Tela de Menu
 
