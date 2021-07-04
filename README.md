@@ -38,7 +38,7 @@
 
 # Código
 
-<li><a href="https://github.com/soaresdayane/cyclepower"> Código Fonte</a></li>
+<li><a href="src"> Código Fonte</a></li>
 
 # Apresentação
 
