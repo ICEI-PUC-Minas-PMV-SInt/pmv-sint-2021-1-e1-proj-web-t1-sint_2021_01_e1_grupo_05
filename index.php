@@ -1,3 +1,2 @@
-<?php include_once("src/index.html"); ?>
-<?php include_once("src/index.css"); ?>
-<?php include_once("js/controleAcesso"); ?>
+<?php include_once("index.html"); ?>
+<?php header ("location: src/index.html"); ?>
