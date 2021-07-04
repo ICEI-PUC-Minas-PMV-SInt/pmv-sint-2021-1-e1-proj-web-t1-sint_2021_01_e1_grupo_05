@@ -15,5 +15,7 @@ function cadastrarNovaDespesaa() {
 
     localStorage.setItem("despesas", despesas);
 
+    alert("Despesas adicionadas.");
+
     return;
 }
