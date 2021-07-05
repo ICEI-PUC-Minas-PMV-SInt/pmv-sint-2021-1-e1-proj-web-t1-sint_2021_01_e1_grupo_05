@@ -2,90 +2,99 @@
 <html lang="pt-BR">
 
 <head>
-    <title>Cycle Power</title>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-    <link rel="stylesheet" href="css/bootstrap.min.css" />
-    <link rel="stylesheet" href="css/tributos.css" />
-    <script type="text/javascript" src="http://code.jquery.com/jquery-1.7.2.min.js"></script>
-    <script type="text/javascript" src="js/cadastrarNovoTributo.js"></script>
-    <script type="text/javascript" src="js/mostraUsuario.js" ></script>
-    <script type="text/javascript" src="js/obterData.js" ></script>
-    <script type="text/javascript" src="js/logout.js"></script>
+  <title>Cycle Power</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+  <link rel="stylesheet" href="css/bootstrap.min.css" />
+  <link rel="stylesheet" href="css/tributos.css" />
+  <script type="text/javascript" src="http://code.jquery.com/jquery-1.7.2.min.js"></script>
+  <script type="text/javascript" src="js/cadastrarNovoTributo.js"></script>
+  <script type="text/javascript" src="js/mostraUsuario.js"></script>
+  <script type="text/javascript" src="js/obterData.js"></script>
+  <script type="text/javascript" src="js/logout.js"></script>
 </head>
 
 <body>
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
-        <div class="container-fluid d-flex justify-content-between">
-            <div id="navbarSupportedContent">
-                <ul class="navbar-nav">
-                    <li class="nav-item">
-                        <span class="label label-default">Usuario: 
-                            <script>document.write(mostraUsuario()); </script>
-                        </span>
-                    </li>
-                    <li class="nav-item">
-                        <span class="label label-default label-date">Data: 
-                            <script> document.write(obterData()); </script>
-                        </span>
-                    </li>
-                </ul>
-            </div>
-            <div>
-                <h5 class="label label-default">Tributos</h5>
-            </div>
-            <button class="btn btn-success btn-sm button-nav" type="submit" onclick="logout()">
-              Logout
-            </button>
-        </div>
-    </nav>
-    <hr>
-    <div>
-        <header>
-            <h1>
-                <span>
-						<strong>Impostos</strong>
-					</span>
-            </h1>
-        </header>
+  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <div class="container-fluid d-flex justify-content-between">
+      <div id="navbarSupportedContent">
+        <ul class="navbar-nav">
+          <li class="nav-item">
+            <span class="label label-default">Usuario:
+              <script>document.write(mostraUsuario());</script>
+            </span>
+          </li>
+          <li class="nav-item">
+            <span class="label label-default label-date">Data:
+              <script> document.write(obterData());</script>
+            </span>
+          </li>
+        </ul>
+      </div>
+      <div>
+        <h5 class="label label-default">Tributos</h5>
+      </div>
+      <button class="btn btn-success btn-sm button-nav" type="submit" onclick="logout()">
+        Logout
+      </button>
     </div>
-    <hr>
+  </nav>
 
-    <div class="formulario">
-        <div class="form-group">
-            <label><strong>Percentual:</strong></label>
-            <input id="valorPercImposto" type="valorPercImposto" name="valorPercImposto" class="form-group" required />
-            <!-- <button id="adicionarImposto" type="button" class="btn btn-light btn-circle btn-sm" onclick=location.href='cadastro_imposto.html'>+</button> -->
-        </div>
+  <hr>
+
+  <div>
+    <header>
+      <h1>
+        <span>
+          <strong>Impostos</strong>
+        </span>
+      </h1>
+    </header>
+  </div>
+  <hr>
+
+  <div class="formulario">
+    <div class="form-group">
+      <label><strong>Percentual:</strong></label>
+      <input id="valorPercImposto" type="valorPercImposto" name="valorPercImposto" class="form-group" required />
+      <!-- <button id="adicionarImposto" type="button" class="btn btn-light btn-circle btn-sm" onclick=location.href='cadastro_imposto.html'>+</button> -->
     </div>
-    <div>
-        <header>
-            <h1>
-                <span>
-						<strong>Investimento</strong>
-					</span>
-            </h1>
-        </header>
+  </div>
+  <div>
+    <header>
+      <h1>
+        <span>
+          <strong>Investimento</strong>
+        </span>
+      </h1>
+    </header>
+  </div>
+  <hr>
+  <div class="formulario">
+    <label style="padding-left: 136px"><strong>Valor</strong></label>
+    <label style="padding-left: 180px"><strong>Valor Mensal</strong></label>
+    <div class="form-group">
+      <label style="padding-left: 20px"><strong>Bicicleta:</strong></label>
+      <input id="valorBicicleta" type="valorBicicleta" name="valorBicicleta" class="form-group" required />
+      <input id="valormensal" type="valormensal" name="valormensal" class="form-group" required />
     </div>
-    <hr>
-    <div class="formulario">
-        <div class="form-group">
-            <label style="padding-left: 20px"><strong>Depreciação Total:</strong></label>
-            <input id="depreciacaoTotal" type="depreciacaoTotal" name="depreciacaoTotal" class="form-group" required />
-        </div>
+    <label style="padding-left: 136px"><strong>Valor</strong></label>
+    <label style="padding-left: 180px"><strong>Valor Mensal</strong></label>
+    <div class="form-group">
+      <label><strong>Bicicletario:</strong></label>
+      <input id="valorBicicletario" type="valorBicicletario" name="valorBicicletario" class="form-group" required />
+      <input id="valormensal" type="valormensal" name="valormensal" class="form-group" required />
     </div>
+  </div>
+  <footer>
+    <input class="Voltar" type='button' value='Voltar' onclick='history.go(-1)' />
+    <input class="Excluir" type='button' value='Excluir' onclick='history.go(-1); deletarTributo()' />
+    <input class="Confirmar" type='button' value='Confirmar' onclick='history.go(-1); cadastrarNovoTributo()' />
+  </footer>
 
 
-
-    <footer>
-        <input class="Voltar" type='button' value='Voltar' onclick='history.go(-1)' />
-        <input class="Excluir" type='button' value='Excluir' onclick='history.go(-1); deletarTributo()' />
-        <input class="Confirmar" type='button' value='Confirmar' onclick='history.go(-1); cadastrarNovoTributo()' />
-    </footer>
-
-
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js "></script>
-    <script src="js/bootstrap.min.js "></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js "></script>
+  <script src="js/bootstrap.min.js "></script>
 </body>
 
 </html>

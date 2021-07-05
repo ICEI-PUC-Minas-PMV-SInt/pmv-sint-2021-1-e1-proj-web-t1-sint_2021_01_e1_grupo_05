@@ -1,72 +1,79 @@
-body{
+body {
     font-family: "Poppins", sans-serif;
     margin: 0;
     height: 100vh;
     background: rgb(185, 231, 152);
-    background: linear-gradient(
-            180deg,
-            rgba(185, 231, 152, 1) 0%,
-            rgba(177, 161, 199, 1) 67%,
-            rgba(180, 154, 218, 1) 100%
-    );
+    background: linear-gradient( 180deg, rgba(185, 231, 152, 1) 0%, rgba(177, 161, 199, 1) 67%, rgba(180, 154, 218, 1) 100%);
     background-repeat: no-repeat;
 }
+
 .label-date {
     margin-left: 20px;
 }
-.button-nav{
+
+.button-nav {
     border-radius: 100px;
     width: 5%;
     border-color: black;
     color: black;
 }
-header{
+
+header {
     padding-top: 20px;
     padding-left: 30px;
 }
-input#descricaoImposto{
+
+input#descricaoImposto {
     width: 300px;
     border: 0;
 }
-input#descricaoPercentual{
+
+input#descricaoPercentual {
     margin-left: 115px;
     border: 0;
 }
-input#Valor{
+
+input#Valor {
     margin-left: 155px;
     border: 0;
 }
-.formulario{
+
+.formulario {
     border: solid 1px;
     margin-top: 1cm;
     margin-left: 30px;
     margin-right: 50px;
     padding-top: 20px;
 }
-.form-group{
+
+.form-group {
     margin-left: 20px;
 }
-.Voltar{
+
+.Voltar {
     border-radius: 100px;
-    position:absolute;
+    position: absolute;
     bottom: 30px;
     width: 10%;
     left: 30px;
 }
-.Excluir{
+
+.Excluir {
     border-radius: 100px;
-    position:absolute;
+    position: absolute;
     bottom: 30px;
     width: 10%;
     left: 78%;
 }
-.Confirmar{
+
+.Confirmar {
     border-radius: 100px;
-    position:absolute;
+    position: absolute;
     bottom: 30px;
     width: 10%;
     left: 90%;
 }
+
 hr {
     width: 98%;
     background-color: white;

@@ -1,105 +1,101 @@
-body{
-  font-family: "Poppins", sans-serif;
-  margin: 0;
-  height: 100vh;
-  background: rgb(185, 231, 152);
-  background: linear-gradient(
-    180deg,
-    rgba(185, 231, 152, 1) 0%,
-    rgba(177, 161, 199, 1) 67%,
-    rgba(180, 154, 218, 1) 100%
-  );
-  background-repeat: no-repeat;
+body {
+    font-family: "Poppins", sans-serif;
+    margin: 0;
+    height: 100vh;
+    background: rgb(185, 231, 152);
+    background: linear-gradient( 180deg, rgba(185, 231, 152, 1) 0%, rgba(177, 161, 199, 1) 67%, rgba(180, 154, 218, 1) 100%);
+    background-repeat: no-repeat;
 }
 
 .label-date {
-  margin-left: 20px;
+    margin-left: 20px;
 }
 
-.button-nav{
-border-radius: 100px;
-width: 5%;
-border-color: black;
-color: black;
+.button-nav {
+    border-radius: 100px;
+    width: 5%;
+    border-color: black;
+    color: black;
 }
 
-header{
-padding-top: 20px;
-padding-left: 30px;
+header {
+    padding-top: 20px;
+    padding-left: 30px;
 }
 
-input#numBikes{
-margin-left: 100px;
-border: 0;
+input#numBikes {
+    margin-left: 100px;
+    border: 0;
 }
 
-input#horasDia{
-margin-left: 125px;
-border: 0;
+input#horasDia {
+    margin-left: 125px;
+    border: 0;
 }
 
-input#potencialHorasMes{
-border: 0;
+input#potencialHorasMes {
+    border: 0;
 }
 
-input#taxaOcupacao{
-margin-left: 90px;
-border: 0;
+input#taxaOcupacao {
+    margin-left: 90px;
+    border: 0;
 }
 
-input#horasMensais{
-margin-left: 30px;
-border: 0;  
+input#horasMensais {
+    margin-left: 30px;
+    border: 0;
 }
 
-.formulario{
-border: solid 1px;
-margin-top: 1cm;
-margin-left: 30px;
-margin-right: 50px;
-padding-top: 20px;
+.formulario {
+    border: solid 1px;
+    margin-top: 1cm;
+    margin-left: 30px;
+    margin-right: 50px;
+    padding-top: 20px;
 }
 
-.form-group{
-margin-left: 20px;
+.form-group {
+    margin-left: 20px;
 }
 
-.Voltar{
-border-radius: 100px;
-position:absolute;
-bottom: 30px;
-width: 10%;
-left: 30px;
+.Voltar {
+    border-radius: 100px;
+    position: absolute;
+    bottom: 30px;
+    width: 10%;
+    left: 30px;
 }
 
-.Excluir{
-border-radius: 100px;
-position:absolute;
-bottom: 30px;
-width: 10%;
-left: 68%;
-}
-.Calcular{
-  border-radius: 100px;
-  position:absolute;
-  bottom: 30px;
-  width: 10%;
-  left: 78%;
+.Excluir {
+    border-radius: 100px;
+    position: absolute;
+    bottom: 30px;
+    width: 10%;
+    left: 68%;
 }
 
-.Confirmar{
-border-radius: 100px;
-position:absolute;
-bottom: 30px;
-width: 10%;
-left: 88%;
+.Calcular {
+    border-radius: 100px;
+    position: absolute;
+    bottom: 30px;
+    width: 10%;
+    left: 78%;
+}
+
+.Confirmar {
+    border-radius: 100px;
+    position: absolute;
+    bottom: 30px;
+    width: 10%;
+    left: 88%;
 }
 
 hr {
-width: 98%;
-background-color: white;
-margin-right: auto;
-margin-left: auto;
-margin-top: -5px;
-border-color: white;
+    width: 98%;
+    background-color: white;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: -5px;
+    border-color: white;
 }

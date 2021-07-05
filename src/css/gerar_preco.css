@@ -1,261 +1,191 @@
 html {
-  height: 100%;
+    height: 100%;
 }
 
 body {
-  min-height: 100%;
-  background: linear-gradient(#add991, #b2a9ed);
-  font-family: "Roboto", sans-serif;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
+    font-family: "Poppins", sans-serif;
+    margin: 0;
+    height: 100vh;
+    min-height: 100%;
+    background: rgb(185, 231, 152);
+    background: linear-gradient(#add991, #b2a9ed);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 * {
-  margin: 0;
-  padding: 0;
+    margin: 0;
+    padding: 0;
 }
 
 .cabecalho {
-  background-color: white;
-  padding: 10px;
-  font-size: 20px;
-  display: flex;
-  flex-flow: row wrap;
-  align-items: center;
+    background-color: white;
+    height: 30px;
+    padding: 5px;
+    font-size: 18px;
+    display: flex;
+    align-items: center;
 }
 
 .cabecalho li {
-  padding: 15px;
-  display: inline-block;
-  color: black;
+    padding: 15px;
+    display: inline-block;
+    color: black;
 }
 
 #telaatual {
-  margin-left: 20%;
+    margin-left: 20%;
 }
 
 #logout {
-  background-color: #e2fbdd;
-  border-radius: 45px;
-  border: 3px solid black;
-  box-shadow: inset 0 0 10px #000000;
-  width: fit-content;
-  height: fit-content;
-  text-align: center;
-  align-items: center;
-  padding: 5px 30px;
-  line-height: 1;
-  position: absolute;
-  left: 90%;
-  font-family: "Roboto", sans-serif;
-  font-size: 20px;
-  cursor: pointer;
+    border-radius: 100px;
+    width: 5%;
+    height: 4%;
+    border-color: black;
+    color: black;
+    position: absolute;
+    left: 93%;
+    background-color: #28b106;
+    cursor: pointer;
 }
 
 #titulo {
-  font-size: 40px;
-  font-weight: bold;
-  text-shadow: 0 3px 3px gray;
+    font-size: 40px;
+    font-weight: bold;
+    text-shadow: 0 3px 3px gray;
+    padding: 5px;
 }
 
 .titulo {
-  border-bottom: 2px solid white;
-  width: 90%;
-  margin-left: 5%;
-  padding-bottom: 1%;
+    border-bottom: 2px solid white;
+    width: 90%;
+    margin-left: 5%;
+    padding-bottom: 1%;
 }
 
 .subtitulo {
-  padding: 20px 0;
-  font-size: 30px;
-  margin-left: 10px;
+    font-size: 30px;
+    margin-left: 5px;
+    padding-left: 25px;
 }
 
-#divvgerais {
-  width: 50%;
-  box-sizing: border-box;
-}
-
-#divdfix {
-  box-sizing: border-box;
-  width: 47%;
-}
 
 /*#div2 {
-    flex-direction: row;
-    justify-content: left;
-    width: 500px;
-    background-color: yellow;
-  }
-    */
-
-#boxvgerais {
-  font-size: 20px;
-  display: inline-block;
-  border: 1px solid black;
-  padding: 30px;
-  justify-items: left;
-  width: 100%;
-  box-sizing: border-box;
-  filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.25));
-  margin-right: 0;
-  padding-right: 100px;
+  flex-direction: row;
+  justify-content: left;
+  width: 500px;
+  background-color: yellow;
 }
+  */
 
-#boxdespesas {
-  display: inline-block;
-  border: 1px solid black;
-  padding: 30px;
-  justify-items: left;
-  font-size: 20px;
-  filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.25));
-  margin-right: 0;
-  width: 90%;
+.form-group {
+    margin-left: 20px;
 }
 
 input {
-  display: inline-block;
-  vertical-align: left;
+    display: inline-block;
+    vertical-align: left;
 }
 
 label {
-  height: 40px;
-  width: 200px;
-  display: inline-block;
-  vertical-align: right;
-  margin: 10px;
-}
-
-.caixas {
-  display: flex;
-  flex-direction: row;
-  text-align: left;
-  justify-content: space-between;
-  padding-bottom: 10px;
-  width: 85%;
+    height: 25px;
+    width: 200px;
+    display: inline-block;
+    vertical-align: right;
+    margin: 10px;
 }
 
 .penultimobox {
-  display: flex;
-  flex-direction: row;
-  text-align: left;
-  justify-content: space-between;
-  margin: 0;
+    padding-top: 15px;
+    display: flex;
+    text-align: left;
+    margin: 0;
 }
 
 .ultimobox {
-  display: flex;
-  flex-direction: row;
-  text-align: left;
-  border: 1px solid black;
-  padding: 0px;
-  margin: 0;
-  justify-content: flex-start;
-  margin: 0;
-  width: 60%;
-  filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.25));
+    width: 50%;
+    border: 1px solid black;
+    margin-left: 50px;
 }
 
 .mliquidabox {
-  display: inline-block;
-  justify-items: start;
-  flex-direction: row;
-  text-align: left;
-  margin: 0;
-  width: 40%;
-  filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.25));
-  font-size: 20px;
-}
-
-.container {
-  margin-left: 5%;
-  width: 85%;
+    font-size: 20px;
+    margin-left: 15px;
 }
 
 #investimentos {
-  font-size: 30px;
+    font-size: 30px;
+    padding-top: 25px;
 }
 
 .cultbox1,
 .cultbox2,
 .cultbox3 {
-  width: 100%;
-  padding: 30px;
-  font-size: 20px;
-  text-align: center;
+    width: 100%;
+    padding: 30px;
+    font-size: 20px;
+    text-align: center
 }
 
 .espacamento {
-  left: 10px;
-  display: flex;
-  flex-direction: row;
-  justify-content: flex-start;
-  width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
 }
 
-.buttonsvec {
-  padding: 20px;
+.Voltar {
+    border-radius: 100px;
+    position: absolute;
+    bottom: 30px;
+    padding: 5px;
+    width: 10%;
+    left: 30px;
+    cursor: pointer;
 }
 
-#bvoltar {
-  font-size: 20px;
-  background-color: white;
-  border-radius: 30px;
-  padding: 5px;
-  padding: 10px 30px;
-  margin-right: 70%;
-  font-family: "Roboto", sans-serif;
-  border: 2px solid black;
-  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-  cursor: pointer;
+.Excluir {
+    border-radius: 100px;
+    position: absolute;
+    bottom: 30px;
+    padding: 5px;
+    width: 10%;
+    left: 78%;
+    cursor: pointer;
 }
 
-#bexcluir {
-  font-size: 20px;
-  background-color: white;
-  border-radius: 30px;
-  padding: 5px;
-  padding: 10px 30px;
-  font-family: "Roboto", sans-serif;
-  border: 2px solid black;
-  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-  cursor: pointer;
-}
-
-#bconfirmar {
-  font-size: 20px;
-  background-color: white;
-  border-radius: 30px;
-  padding: 10px 30px;
-  font-family: "Roboto", sans-serif;
-  border: 2px solid black;
-  margin-left: 2%;
-  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-  cursor: pointer;
-}
-
-#bvoltar:hover { 
-  box-shadow: 0px 10px 10px rgba(1, 45, 241, 0.25);
-}
-#bexcluir:hover {
-  box-shadow: 0px 10px 10px rgba(255, 0, 0, 0.25);
-}
-#bconfirmar:hover {
-  box-shadow: 0px 10px 10px rgba(0, 255, 0, 0.25);
+.Confirmar {
+    border-radius: 100px;
+    position: absolute;
+    bottom: 30px;
+    padding: 5px;
+    width: 10%;
+    left: 90%;
+    cursor: pointer;
 }
 
 #logout:hover {
-  background-color: #f3a6a6;
-  border-radius: 45px;
-  border: 3px solid black;
-  box-shadow: inset 0 0 10px #000000;
-  width: fit-content;
-  height: fit-content;
-  text-align: center;
-  align-items: center;
-  padding: 5px 30px;
-  line-height: 1;
-  position: absolute;
-  left: 90%;
-  font-family: "Roboto", sans-serif;
+    color: white;
+}
+
+.divValorGeral {
+    display: inline-grid;
+    margin-left: 70px;
+    margin-top: 20px;
+}
+
+.geral {
+    font-size: 20px;
+    border: 1px solid black;
+    padding: 10px;
+    justify-items: left;
+    box-sizing: border-box;
+    padding-right: 100px;
+}
+
+.despesas {
+    border: 1px solid black;
+    padding: 25px;
+    justify-items: left;
+    font-size: 20px;
+    width: 100%;
 }

@@ -3,12 +3,7 @@ body {
     margin: 0;
     height: 100vh;
     background: rgb(185, 231, 152);
-    background: linear-gradient(
-            180deg,
-            rgba(185, 231, 152, 1) 0%,
-            rgba(177, 161, 199, 1) 67%,
-            rgba(180, 154, 218, 1) 100%
-    );
+    background: linear-gradient( 180deg, rgba(185, 231, 152, 1) 0%, rgba(177, 161, 199, 1) 67%, rgba(180, 154, 218, 1) 100%);
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
@@ -41,18 +36,18 @@ strong {
     align-items: center;
 }
 
-.container{
+.container {
     border: 1px solid;
 }
 
-#inputDescricao{
-    width:274px;
+#inputDescricao {
+    width: 274px;
 }
 
-.form-group{
+.form-group {
     width: 100px;
 }
 
-.containerButton{
+.containerButton {
     padding: 20px 20px;
 }
