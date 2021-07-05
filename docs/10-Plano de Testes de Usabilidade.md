@@ -5,7 +5,7 @@
 Tendo em vista a correta utilização do software as métricas de teste de usabilidade estão definidas como descrito abaixo:
 
  1. O usuário deverá efetuar o login no sistema;
- 2. Navegar pelo meno e acessar as telas anteriores à geração de preços;
+ 2. Navegar pelo menu e acessar as telas anteriores à geração de preços;
  3. Cadastrar em suas respectivas telas as informações necessárias para o cálculo;
  4. Navegar pelo menu novamente e acessar a tela de Geração de Preços;
  5. Gerar o preço final e confirmar os valores.
