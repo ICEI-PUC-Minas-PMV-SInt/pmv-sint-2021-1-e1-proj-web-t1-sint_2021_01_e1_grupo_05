@@ -16,6 +16,14 @@
 |Passos|1) Acessar as diferentes telas e preencher os campos cadastrais de valores.
 |Critérios de Êxito|Os valores precisam ser cadastrados e seus valores devem ser armazenados na local storage e cada tela deve ter uma chave específica.
 
+
+|Caso de Teste|Cálculo de Premissas|
+|--|--|
+|Requisitos Associados| Tela de cadastro de premissas |
+|Objetivo do Teste| Calcular o preço do potencial de horas por mês e horas mensais estimadas.
+|Passos|1) Informe o valor "Número de Bikes" e "Horas por Dia" 2) Em seguida o resultado de Potencial de horas por mês deve ser calculado conforme: Número de bikes * horas por dia + 30 3) Informe o valor para Taxa de Ocupação 4) O valor "Horas Mensais estimadas" deve ser calculado conforme: Resultado de Potencial de horas por mês * (taxa de ocupação * 0.01).
+|Critérios de Êxito|Informar os valores para cálculo.
+
 |Caso de Teste|Geração do Preço final |
 |--|--|
 |Requisitos Associados| Tela de geração de preços previamente criada e com a mecânica de buscar os valores associados ao cálculo da localstorage.|
