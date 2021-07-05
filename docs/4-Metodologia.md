@@ -14,8 +14,8 @@ foi utilizado para hospedagem do repositório.
 
 O projeto segue a seguinte convenção para o nome de branchs:
 
-- `master`: versão estável já testada do software
-- `dev`: versão de desenvolvimento do software
+- `main`: versão estável já testada do software
+- `dev`: versão de desenvolvimento do software. Onde cada desenvolvedor cria sua branch a partir de `main` para desenvolvimento.
 
 Quanto à gerência de issues, o projeto adota a seguinte convenção para
 etiquetas:
