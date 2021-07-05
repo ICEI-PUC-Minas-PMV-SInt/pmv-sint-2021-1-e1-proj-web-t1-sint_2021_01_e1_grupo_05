@@ -2,26 +2,24 @@
 
 <span style="color:red">Pré-requisitos: Todos os demais artefatos</span>
 
-Conjunto de slides em um arquivo PowerPoint ou PDF com a apresentação do projeto contemplando todos os itens trabalhados nos demais artefatos.
+![Slide1](https://user-images.githubusercontent.com/20197817/124403849-b885f700-dd0e-11eb-844c-ac1bd9eb8230.jpg)
+![Slide2](https://user-images.githubusercontent.com/20197817/124403855-bc197e00-dd0e-11eb-80b7-a5c52bb69115.jpg)
+![Slide3](https://user-images.githubusercontent.com/20197817/124403856-bd4aab00-dd0e-11eb-822b-f6c11c7c60f7.jpg)
+![Slide4](https://user-images.githubusercontent.com/20197817/124403858-bf146e80-dd0e-11eb-979a-1196311d4b5a.jpg)
+![Slide5](https://user-images.githubusercontent.com/20197817/124403877-d3f10200-dd0e-11eb-8697-134240108258.jpg)
+![Slide6](https://user-images.githubusercontent.com/20197817/124403878-d6535c00-dd0e-11eb-9648-637894218e0e.jpg)
+![Slide7](https://user-images.githubusercontent.com/20197817/124403881-d7848900-dd0e-11eb-8536-6c95cebed560.jpg)
+![Slide8](https://user-images.githubusercontent.com/20197817/124403884-d81d1f80-dd0e-11eb-8f67-24cb9fcfd9e6.jpg)
+
 
 ## Título do Projeto
 
-Nome e marca do projeto
+CyclePower
 
 ## Identidade Visual (Marca, Design)
 
-O grupo deve ter o cuidado em utilizar figuras, imagens, e cores dentro do contexto da solução proposta, de forma a manter a temática do problema.
+![image](https://user-images.githubusercontent.com/20197817/124403913-fbe06580-dd0e-11eb-8f99-f3a05b251b1a.png)
 
-> **Links Úteis**:
-> - [10 dicas de design para slides](https://rockcontent.com/blog/design-para-slides/)
-> - [7 dicas de design para criar apresentações de PowerPoint incríveis e eficientes](https://www.shutterstock.com/pt/blog/7-dicas-de-design-para-criar-apresentacoes-de-powerpoint-incriveis-e-eficientes)
-> - [Especialista do TED dá 10 dicas para criar slides eficazes e bonitos](https://soap.com.br/blog/especialista-do-ted-da-10-dicas-para-criar-slides-eficazes-e-bonitos)
 
 ## Conjunto de Slides (Estrutura)
-
-O grupo deve distribuir de forma coerente o conteúdo a ser apresentado, dentro do tempo determinado. Importante ressaltar a importância da descrição clara de todo o andamento do projeto, insumos gerados e requisitos atendidos.
- 
-> **Links Úteis**:
-> - [A regra 10-20-30 para apresentações de sucesso](https://revistapegn.globo.com/Noticias/noticia/2014/07/regra-10-20-30-para-apresentacoes-de-sucesso.html)
-> - [Top Tips for Effective Presentations](https://www.skillsyouneed.com/present/presentation-tips.html)
-> - [How to make a great presentation](https://www.ted.com/playlists/574/how_to_make_a_great_presentation)
+![Slide7](https://user-images.githubusercontent.com/20197817/124403921-0438a080-dd0f-11eb-8abb-38e2db8209ef.jpg)
