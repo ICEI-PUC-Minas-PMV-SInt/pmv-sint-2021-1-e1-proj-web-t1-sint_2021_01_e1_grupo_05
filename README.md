@@ -38,7 +38,7 @@
 
 # Código
 
-<li><a href="https://github.com/soaresdayane/cyclepower"> Código Fonte</a></li>
+<li><a href="https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2021-1-e1-proj-web-t1-sint_2021_01_e1_grupo_05/tree/main/src"> Código Fonte</a></li>
 
 # Apresentação
 
