@@ -135,7 +135,7 @@
       <div>
         <form class="mliquidabox">
           <label for="mliquida"><strong>Margem Líquida:</strong></label>
-          <input type="text" id="mliquida" name="mliquida" /><br />
+          <input type="text" id="mliquida" name="mliquida" onblur="atualizarPrecoFinal()"/><br />
         </form>
         <form class="mliquidabox">
           <label for="pvenda"><strong>Preço de Venda:</strong></label>
@@ -146,7 +146,7 @@
     <footer>
       <input class="Voltar" type='button' value='Voltar' onclick='history.go(-1)' />
       <input class="Excluir" type='button' value='Excluir' onclick='history.go(-1)' />
-      <input class="Confirmar" type='button' value='Confirmar' onclick='history.go(-1)' />
+      <input class="Confirmar" type='button' value='Confirmar' onclick='gerar()' />
     </footer>
   <script type="text/javascript" src="js/gerarPreco.js"></script>
 </body>
