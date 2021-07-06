@@ -22,8 +22,6 @@ function calcularHorasMesaisEstimadas() {
 
     localStorage.setItem("premissas", premissa);
 
-    alert("Premissas adicionada.");
-
     return true;
 
 }
